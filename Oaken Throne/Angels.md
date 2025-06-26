@@ -1,0 +1,1 @@
+A special ability that [[Maximus]] has.

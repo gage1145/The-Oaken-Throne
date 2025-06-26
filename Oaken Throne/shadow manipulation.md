@@ -1,0 +1,1 @@
+A magical ability to have shadows consume people. Holy shit. [[Maximus]] has this ability.

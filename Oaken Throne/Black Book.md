@@ -1,0 +1,1 @@
+Has so many truths that it has been completely blacked out. Located in the [[Vatican]].
