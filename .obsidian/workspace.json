@@ -6,9 +6,59 @@
       {
         "id": "1a155c9d2bd8c0a4",
         "type": "tabs",
+        "dimension": 31.408629441624363,
         "children": [
           {
-            "id": "cab5153a95ab2029",
+            "id": "a7484ea97f51629b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oaken Throne/NPCs/Sir Grim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sir Grim"
+            }
+          },
+          {
+            "id": "274dd0138a5456bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oaken Throne/NPCs/Donkey Jote.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Donkey Jote"
+            }
+          },
+          {
+            "id": "932d4962c6a91824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Oaken Throne/NPCs/Spoon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spoon"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d8070726e5d1d911",
+        "type": "tabs",
+        "dimension": 68.59137055837563,
+        "children": [
+          {
+            "id": "eb0fd6a43b4c2cdd",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -106,14 +156,10 @@
             "id": "74122cd82a0ea876",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oaken Throne/Bold Ferenius.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bold Ferenius"
+              "title": "New tab"
             }
           },
           {
@@ -163,11 +209,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "system3-relay:Relay": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -176,34 +223,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cab5153a95ab2029",
+  "active": "4399ccdfa085f73c",
   "lastOpenFiles": [
-    "Oaken Throne/shadow manipulation.md",
+    "Oaken Throne/Sessions",
+    "Oaken Throne/Locations",
+    "Oaken Throne/NPCs/Spoon.md",
+    "Oaken Throne/NPCs/Donkey Jote.md",
+    "Oaken Throne/NPCs/Sir Grim.md",
+    "Oaken Throne/NPCs",
+    "Untitled",
+    "Oaken Throne/PCs/Jem.md",
+    "Oaken Throne/PCs/Y-lana.md",
+    "Oaken Throne/PCs/Maximus.md",
+    "Oaken Throne/PCs/Jovis.md",
+    "Oaken Throne/PCs/Hipatia.md",
+    "Oaken Throne/PCs/Elias.md",
+    "Oaken Throne/PCs/Domina.md",
+    "Oaken Throne/PCs",
     "Untitled.canvas",
-    "Oaken Throne/Session 45.md",
-    "Oaken Throne/Damaria.md",
+    "Oaken Throne/shadow manipulation.md",
+    "Oaken Throne/Sessions/Session 45.md",
+    "Oaken Throne/Locations/Damaria.md",
     "Oaken Throne/Geomancy.md",
-    "Oaken Throne/Elias.md",
-    "Oaken Throne/Thomas Whitefeather.md",
-    "Oaken Throne/Lechid.md",
-    "Oaken Throne/Y-lana.md",
+    "Oaken Throne/NPCs/Thomas Whitefeather.md",
+    "Oaken Throne/NPCs/Lechid.md",
     "Elana.md",
     "Oaken Throne/Angels.md",
     "Oaken Throne/The Sword in The Soil.md",
-    "Oaken Throne/Arius.md",
+    "Oaken Throne/NPCs/Arius.md",
     "Oaken Throne/Black Book.md",
-    "Oaken Throne/Jovis.md",
-    "Oaken Throne/Maximus.md",
-    "Oaken Throne/Domina.md",
     "Palat Vargus.md",
     "Oaken Throne/Dagger.md",
     "Oaken Throne/Daktrianism.md",
     "Oaken Throne/The Oaken Throne.md",
-    "Oaken Throne/Tavara.md",
-    "Oaken Throne/Aberat.md",
-    "Oaken Throne/Hipatia.md",
-    "Oaken Throne/Prelod Vargus.md",
-    "Oaken Throne/The Primod.md",
     "Oaken Throne",
     "Priogen Database"
   ]
