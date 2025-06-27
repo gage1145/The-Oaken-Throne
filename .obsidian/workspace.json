@@ -11,10 +11,10 @@
             "id": "9c68c3b69fef6d65",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -70,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,13 +154,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "6ac5cc97036ab023",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 519.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +186,10 @@
   },
   "active": "9c68c3b69fef6d65",
   "lastOpenFiles": [
-    "Oaken Throne/NPCs/Sir Grim.md",
     "Oaken Throne/Bob Hoskins.md",
     "Eddie03 1.jpg",
     "Eddie03.jpg",
+    "Oaken Throne/NPCs/Sir Grim.md",
     "Oaken Throne/Sessions/Session 45.md",
     "Oaken Throne/Sessions",
     "Oaken Throne/Locations",
@@ -208,7 +219,6 @@
     "Palat Vargus.md",
     "Oaken Throne/Dagger.md",
     "Oaken Throne/Daktrianism.md",
-    "Oaken Throne/The Oaken Throne.md",
     "Oaken Throne",
     "Priogen Database"
   ]
