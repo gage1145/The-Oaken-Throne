@@ -4,61 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1a155c9d2bd8c0a4",
+        "id": "34b097d9c53a3aaa",
         "type": "tabs",
-        "dimension": 31.408629441624363,
         "children": [
           {
-            "id": "a7484ea97f51629b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oaken Throne/NPCs/Sir Grim.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sir Grim"
-            }
-          },
-          {
-            "id": "274dd0138a5456bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oaken Throne/NPCs/Donkey Jote.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Donkey Jote"
-            }
-          },
-          {
-            "id": "932d4962c6a91824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oaken Throne/NPCs/Spoon.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spoon"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d8070726e5d1d911",
-        "type": "tabs",
-        "dimension": 68.59137055837563,
-        "children": [
-          {
-            "id": "eb0fd6a43b4c2cdd",
+            "id": "9c68c3b69fef6d65",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -223,13 +173,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4399ccdfa085f73c",
+  "active": "9c68c3b69fef6d65",
   "lastOpenFiles": [
+    "Oaken Throne/NPCs/Sir Grim.md",
+    "Oaken Throne/Bob Hoskins.md",
+    "Eddie03 1.jpg",
+    "Eddie03.jpg",
+    "Oaken Throne/Sessions/Session 45.md",
     "Oaken Throne/Sessions",
     "Oaken Throne/Locations",
     "Oaken Throne/NPCs/Spoon.md",
     "Oaken Throne/NPCs/Donkey Jote.md",
-    "Oaken Throne/NPCs/Sir Grim.md",
     "Oaken Throne/NPCs",
     "Untitled",
     "Oaken Throne/PCs/Jem.md",
@@ -242,7 +196,6 @@
     "Oaken Throne/PCs",
     "Untitled.canvas",
     "Oaken Throne/shadow manipulation.md",
-    "Oaken Throne/Sessions/Session 45.md",
     "Oaken Throne/Locations/Damaria.md",
     "Oaken Throne/Geomancy.md",
     "Oaken Throne/NPCs/Thomas Whitefeather.md",
