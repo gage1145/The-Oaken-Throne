@@ -6,17 +6,67 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"NPCs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:\"PCs\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 8041727
+      }
+    },
+    {
+      "query": "path:\"Locations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"Sessions\" ",
+      "color": {
+        "a": 1,
+        "rgb": 14853928
+      }
+    },
+    {
+      "query": "path:Objects  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:Magic  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:Religion  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7736324538898554,
+  "collapse-forces": false,
+  "centerStrength": 0.651041666666667,
+  "repelStrength": 11.9791666666667,
+  "linkStrength": 0.880208333333333,
+  "linkDistance": 331,
+  "scale": 0.7230796463454264,
   "close": true
 }

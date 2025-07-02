@@ -2,20 +2,7 @@
   "release": {
     "channel": "stable"
   },
-  "sharedFolders": [
-    {
-      "path": "Oaken Throne",
-      "guid": "eb23c3fc-2f63-43e9-96e8-0c93dcf525cf",
-      "relay": "caddbba1-1fcd-4c3a-bc02-077f195d0d29",
-      "sync": {
-        "images": true,
-        "audio": true,
-        "videos": true,
-        "pdfs": true,
-        "otherTypes": false
-      }
-    }
-  ],
+  "sharedFolders": [],
   "enableUpdateYDocFromDiskBuffer": false,
   "enableDocumentStatus": false,
   "enableNewLinkFormat": false,

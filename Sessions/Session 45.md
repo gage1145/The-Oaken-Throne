@@ -2,7 +2,6 @@
 [[Elias]] came with [[Domina]]. Paid 200 silver for the plan. [[Prelod Vargus]] will be our guide into the [[Vatican]].  We will be diplomats from [[Drunok]]. We must know lower [[Jargen]] but we don't have the right accents. 
 
 We have a unique opportunity to access the archives. We should use this moment to case the joint. We won't cast angel spell. 
-
 ## After leaving the meeting
 We debate about whether [[Maximus]] should use [[Angels]] to learn about [[The Oaken Throne]] or about [[The Sword in The Soil]]. 
 ## What is our backstory?

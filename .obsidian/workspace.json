@@ -6,15 +6,48 @@
       {
         "id": "34b097d9c53a3aaa",
         "type": "tabs",
+        "dimension": 29.56852791878173,
         "children": [
           {
             "id": "9c68c3b69fef6d65",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "561267eef34107ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Objects/Black Book.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Black Book"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "03f2e8e1caf8ea55",
+        "type": "tabs",
+        "dimension": 70.43147208121827,
+        "children": [
+          {
+            "id": "6b2955afc75afdce",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -70,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,41 +216,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c68c3b69fef6d65",
+  "active": "6b2955afc75afdce",
   "lastOpenFiles": [
-    "Oaken Throne/Bob Hoskins.md",
+    "PCs/Y-lana.md",
+    "PCs/Gem.md",
+    "PCs/Maximus.md",
+    "PCs/Domina.md",
+    "Misc",
+    "Religion",
+    "Magic",
+    "Untitled.md",
+    "Objects",
+    "Sessions/Session 45.md",
+    "Locations/Drunok.md",
+    "NPCs/Thomas Whitefeather.md",
+    "Objects/Black Book.md",
+    "Magic/Angels.md",
+    "NPCs/Bob Hoskins.md",
     "Eddie03 1.jpg",
     "Eddie03.jpg",
-    "Oaken Throne/NPCs/Sir Grim.md",
-    "Oaken Throne/Sessions/Session 45.md",
-    "Oaken Throne/Sessions",
-    "Oaken Throne/Locations",
-    "Oaken Throne/NPCs/Spoon.md",
-    "Oaken Throne/NPCs/Donkey Jote.md",
-    "Oaken Throne/NPCs",
-    "Untitled",
-    "Oaken Throne/PCs/Jem.md",
-    "Oaken Throne/PCs/Y-lana.md",
-    "Oaken Throne/PCs/Maximus.md",
-    "Oaken Throne/PCs/Jovis.md",
-    "Oaken Throne/PCs/Hipatia.md",
-    "Oaken Throne/PCs/Elias.md",
-    "Oaken Throne/PCs/Domina.md",
-    "Oaken Throne/PCs",
+    "NPCs/Sir Grim.md",
+    "Sessions",
+    "Locations",
+    "NPCs/Spoon.md",
+    "NPCs/Donkey Jote.md",
+    "NPCs",
+    "PCs/Jem.md",
+    "PCs/Jovis.md",
+    "PCs/Hipatia.md",
+    "PCs/Elias.md",
+    "PCs",
     "Untitled.canvas",
-    "Oaken Throne/shadow manipulation.md",
-    "Oaken Throne/Locations/Damaria.md",
-    "Oaken Throne/Geomancy.md",
-    "Oaken Throne/NPCs/Thomas Whitefeather.md",
-    "Oaken Throne/NPCs/Lechid.md",
+    "Magic/shadow manipulation.md",
+    "Locations/Damaria.md",
+    "Magic/Geomancy.md",
+    "NPCs/Lechid.md",
     "Elana.md",
-    "Oaken Throne/Angels.md",
-    "Oaken Throne/The Sword in The Soil.md",
-    "Oaken Throne/NPCs/Arius.md",
-    "Oaken Throne/Black Book.md",
+    "NPCs/The Sword in The Soil.md",
+    "NPCs/Arius.md",
     "Palat Vargus.md",
-    "Oaken Throne/Dagger.md",
-    "Oaken Throne/Daktrianism.md",
     "Oaken Throne",
     "Priogen Database"
   ]
