@@ -1,0 +1,1 @@
+A fire damage spell. [[Maximus]] has this ability.

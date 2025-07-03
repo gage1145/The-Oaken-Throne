@@ -1,0 +1,1 @@
+A magical ability that allows people to move instantly between shadows. [[Maximus]] has this ability.

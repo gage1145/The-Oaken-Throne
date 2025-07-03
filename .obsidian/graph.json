@@ -4,49 +4,49 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"NPCs\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16759552
       }
     },
     {
       "query": "path:\"PCs\"  ",
       "color": {
         "a": 1,
-        "rgb": 8041727
+        "rgb": 28415
       }
     },
     {
       "query": "path:\"Locations\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14352585
       }
     },
     {
       "query": "path:\"Sessions\" ",
       "color": {
         "a": 1,
-        "rgb": 14853928
+        "rgb": 16514816
       }
     },
     {
       "query": "path:Objects  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 56210
       }
     },
     {
       "query": "path:Magic  ",
       "color": {
         "a": 1,
-        "rgb": 5419488
+        "rgb": 14688768
       }
     },
     {
@@ -57,16 +57,16 @@
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1.50364583333333,
+  "lineSizeMultiplier": 1.325,
   "collapse-forces": false,
-  "centerStrength": 0.651041666666667,
-  "repelStrength": 11.9791666666667,
-  "linkStrength": 0.880208333333333,
-  "linkDistance": 331,
-  "scale": 0.7230796463454264,
+  "centerStrength": 0.5,
+  "repelStrength": 13.2291666666667,
+  "linkStrength": 0.947916666666667,
+  "linkDistance": 177,
+  "scale": 0.5572140607228263,
   "close": true
 }

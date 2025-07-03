@@ -1,2 +1,2 @@
 
-Basically the Pope. of [[Daktrianism]]. Lives in the [[Vatican]].
+Basically the Pope. of [[Daaktrianism]]. Lives in the [[Vatican]].
