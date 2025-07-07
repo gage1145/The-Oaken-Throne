@@ -1,0 +1,1 @@
+Party thought he was a [[Vampire]],  but a doctor said he had a blood infection.
