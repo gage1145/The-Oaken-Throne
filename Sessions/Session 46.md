@@ -34,4 +34,4 @@ We all got back to the apartment. [[Jem]] is just stepping out of the bath. Jem 
 
 We decide that we need to immediately gtfo of the city.
 
-Jovis and Y-lana got a total of 5,400 silver!
+Jovis and Y-lana got a total of 5,400 silver ($108,000)!
