@@ -2,111 +2,14 @@
   "release": {
     "channel": "stable"
   },
-  "sharedFolders": [
-    {
-      "path": "Sessions",
-      "guid": "5ceb0f0d-eaaa-4254-83d7-e3cb7dfba7c0",
-      "relay": "a0d3aa4d-315a-4b3d-8efc-8998ec603db2",
-      "sync": {
-        "images": true,
-        "audio": true,
-        "videos": true,
-        "pdfs": true,
-        "otherTypes": false
-      }
-    },
-    {
-      "path": "Locations",
-      "guid": "fcbe1ae8-9dc6-4351-a17a-93225ff4cfb7",
-      "relay": "a0d3aa4d-315a-4b3d-8efc-8998ec603db2",
-      "sync": {
-        "images": true,
-        "audio": true,
-        "videos": true,
-        "pdfs": true,
-        "otherTypes": false
-      }
-    },
-    {
-      "path": "Magic",
-      "guid": "46762c3a-e4a3-4169-957e-20dcc027366a",
-      "relay": "a0d3aa4d-315a-4b3d-8efc-8998ec603db2",
-      "sync": {
-        "images": true,
-        "audio": true,
-        "videos": true,
-        "pdfs": true,
-        "otherTypes": false
-      }
-    },
-    {
-      "path": "NPCs",
-      "guid": "60e010ab-40c9-4fe0-8e0a-1a78a8df4bc2",
-      "relay": "a0d3aa4d-315a-4b3d-8efc-8998ec603db2",
-      "sync": {
-        "images": true,
-        "audio": true,
-        "videos": true,
-        "pdfs": true,
-        "otherTypes": false
-      }
-    },
-    {
-      "path": "Objects",
-      "guid": "67028837-f198-45d9-84dd-25cc62ead7ab",
-      "relay": "a0d3aa4d-315a-4b3d-8efc-8998ec603db2",
-      "sync": {
-        "images": true,
-        "audio": true,
-        "videos": true,
-        "pdfs": true,
-        "otherTypes": false
-      }
-    },
-    {
-      "path": "PCs",
-      "guid": "7af3f448-d699-45d8-8a8d-a674e90d9fff",
-      "relay": "a0d3aa4d-315a-4b3d-8efc-8998ec603db2",
-      "sync": {
-        "images": true,
-        "audio": true,
-        "videos": true,
-        "pdfs": true,
-        "otherTypes": false
-      }
-    },
-    {
-      "path": "Religion",
-      "guid": "fa50ac97-fbe2-4f82-a669-d735ceb1d635",
-      "relay": "a0d3aa4d-315a-4b3d-8efc-8998ec603db2",
-      "sync": {
-        "images": true,
-        "audio": true,
-        "videos": true,
-        "pdfs": true,
-        "otherTypes": false
-      }
-    },
-    {
-      "path": "Misc",
-      "guid": "c849eead-3b59-4457-882c-4068a89cab38",
-      "relay": "a0d3aa4d-315a-4b3d-8efc-8998ec603db2",
-      "sync": {
-        "images": true,
-        "audio": true,
-        "videos": true,
-        "pdfs": true,
-        "otherTypes": false
-      }
-    }
-  ],
+  "sharedFolders": [],
   "enableUpdateYDocFromDiskBuffer": false,
   "enableDocumentStatus": false,
   "enableNewLinkFormat": false,
   "enableDeltaLogging": false,
   "enableHTTPSync": false,
   "enableSyncMenu": true,
-  "enableDocumentServer": true,
+  "enableDocumentServer": false,
   "enableDocumentHistory": false,
   "enableEditorTweens": false,
   "enableSyncModal": false,
