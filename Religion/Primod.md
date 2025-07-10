@@ -1,0 +1,1 @@
+Equivalent to a cardinal in [[Daaktrianism]].

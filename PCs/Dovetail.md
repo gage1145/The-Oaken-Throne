@@ -1,0 +1,1 @@
+A pseudonym used by [[Jovis]] when encountering [[Franklin of Nines]] and [[The Bright Childs]].

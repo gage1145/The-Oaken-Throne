@@ -10,8 +10,4 @@ Domina may be attracted to him.
 
 Short and wide stature. Looks like Bob Hoskins
 
-Killed by [[Y-lana]] in [[Session 46]].
-
-
-
-
+Killed by [[Y-lana]] in [[Session 46]].  

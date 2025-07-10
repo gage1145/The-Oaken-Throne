@@ -1,0 +1,1 @@
+A flaming sword dropped by a [[Abarat's Palace]] guard during the heist. [[Domina]] picked it up and gave it the name, Cindertongue.

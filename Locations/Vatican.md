@@ -1,1 +1,0 @@
-Vatican of [[Daaktrianism]] located in [[Tavara]].

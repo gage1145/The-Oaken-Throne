@@ -1,1 +1,1 @@
-Was involved in a plot to help [[Domina]], [[Y-lana]], and [[Maximus]] infiltrate the [[Vatican]].
+Was involved in a plot to help [[Domina]], [[Y-lana]], and [[Maximus]] infiltrate the [[Abarat's Palace]].

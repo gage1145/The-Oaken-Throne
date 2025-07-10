@@ -1,10 +1,10 @@
-# Infiltrating the [[Vatican]] Cont'd
+# Infiltrating the [[Abarat's Palace]] Cont'd
 
 [[Domina]] used [[Shadow Walking]] to get into the room containing the [[Black Book]]. It is completely dark, so she has to feel around. She finds the book, but it's chained to the pedestal. Guards with flaming swords surrounded [[Maximus]] and [[Elias]]. [[Maximus]] kneels down and pretends to pray as if he doesn't know what's happening. Elias makes his way into the room. Elias tries to use an armorer's tool to break the chain and is successful.
 
 The guards attempt to manacle Maximus. He shadow walks away before they get the chance. He also engulfs the entire hallway in darkness. Domina peaks out the hole and shadow walks toward the darkness. She immediately is in danger of three guards that arrive as she does.
 
-Maximus stepped in front of Domina and casted [[Hand of Heavy Ether]]. One guy fucking dies instantly by fucking melting. Maximus screamed "How dare you question [[Daak]]'s power!". Another guy melts instantly. Finally, the last guys eyes pop like eggs in a microwave, and he also melts jfc. Domina and Maximus had to do a supernatural trauma test. Domina failed and lost 3 wellbeing. 
+Maximus stepped in front of Domina and casted [[Hand of Heavy Ether]]. One guy fucking dies instantly by fucking melting. Maximus screamed "How dare you question [[Daak]]'s power!". Another guy melts instantly. Finally, the last guys eyes pop like eggs in a microwave, and he also melts jfc. Domina and Maximus had to do a supernatural trauma test. Domina failed and lost 3 wellbeing. Domina also picked up one of the flaming swords. It lost its flame.
 
 Two more guards attack Domina and she deftly parried both of them. I'm just as surprised as you. Maximus then came up and casted [[Space Flame]]. He got like 6 fucking advantage lol. Definitely killed two of the guards, and another one was rendered barely alive with his skin melted. Another one had his face lit on fire, but lived.
 

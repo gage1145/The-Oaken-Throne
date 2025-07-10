@@ -1,0 +1,1 @@
+Vatican of [[Daaktrianism]] located in [[Tibara]].

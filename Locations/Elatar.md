@@ -1,0 +1,1 @@
+The nearest town to the South of [[Tibara]].

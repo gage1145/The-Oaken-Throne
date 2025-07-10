@@ -1,0 +1,4 @@
+- One of the founding prophets/saints of [[Daaktrianism]]
+- Legend says that he found the [[The Oaken Throne]], but refused to sit on it
+- Sword's Witnesses is a heretical cult that believes [[The Sword in The Soil]] is the most import prophet.
+- [[The Primod]] tasked the party with discovering the truth of his death

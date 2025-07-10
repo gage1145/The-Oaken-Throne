@@ -1,0 +1,1 @@
+A common pseudonym used by [[Maximus]]. Used when encountering [[Franklin of Nines]] and [[The Bright Childs]].

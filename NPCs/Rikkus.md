@@ -1,0 +1,1 @@
+The guard that let us in to [[Tibara]]. [[Jovis]] got the indulgence for his brother, and then went back to collect.
