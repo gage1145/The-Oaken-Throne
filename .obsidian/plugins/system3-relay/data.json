@@ -9,7 +9,7 @@
   "enableDeltaLogging": false,
   "enableHTTPSync": false,
   "enableSyncMenu": true,
-  "enableDocumentServer": false,
+  "enableDocumentServer": true,
   "enableDocumentHistory": false,
   "enableEditorTweens": false,
   "enableSyncModal": false,
