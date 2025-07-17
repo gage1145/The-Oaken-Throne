@@ -206,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,11 +220,11 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "c9ff7ecd8e3ab590",
+  "active": "bd78de31706b859c",
   "lastOpenFiles": [
+    "Sessions/Session 48.md",
     "PCs/Sebael.md",
     "Dybbuk.md",
-    "Sessions/Session 48.md",
     "PCs/Domina.md",
     "PCs/Kibler Turnpike.md",
     "Amra.md",

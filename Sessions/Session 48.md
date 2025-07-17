@@ -15,3 +15,5 @@ The rest of the party strolled in and were unbothered lol.
 
 # The group arrives at the boat
 We decided to take [[Dragon]]. The group notices that the crew is acting very weird. It doesn't seem like it has anything to do with us. [[Jovis]] asks a random sailor why the vibes are off.
+
+There is a plan to mutiny, and the group decides to back the captain.
