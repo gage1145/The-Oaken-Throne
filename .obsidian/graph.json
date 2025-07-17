@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path: Sessions",
+  "search": "-path:Sessions",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
