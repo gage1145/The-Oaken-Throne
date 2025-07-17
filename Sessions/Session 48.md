@@ -12,3 +12,6 @@ Someone is attempting to steal the book from Elias. It's Domina! Elias attacks D
 Elias becomes catatonic from fucking killing Domina. Elias also gains the "split personality" trait. [[Jem]] witnessed the whole thing and gained the "fixation" trait.
 
 The rest of the party strolled in and were unbothered lol. 
+
+# The group arrives at the boat
+We decided to take [[Dragon]]. The group notices that the crew is acting very weird. It doesn't seem like it has anything to do with us. [[Jovis]] asks a random sailor why the vibes are off.
