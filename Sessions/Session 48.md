@@ -1,0 +1,6 @@
+# Leaving [[Duval]]
+[[Maximus]] needs his laylines! Listening to the angels, there is no mundane way to read the [[Black Book]]. We will likely need magic. Maximus tells the box that conflict is about to erupt between the empire and [[Drunok]]. 
+
+We discussed getting a boat to [[Axholm]] or even all the way to [[Amra]].  We discussed rebinding the Black Book. [[Domina]] suggested absolutely not doing that? Maximus settled on just covering the book. [[Domina]] is still very uncomfortable with this plan. She would rather not deface the book at all. Maximus disguises it as a book about commerce in [[Duval]].
+
+[[Elias]] finds a boat leaving for [[Malorian]]. He could fit us aboard. It's in the direction, but kind of out of the way. 45 silver per head. 

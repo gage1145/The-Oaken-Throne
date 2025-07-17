@@ -1,0 +1,1 @@
+A chain of 3 islands to the west of [[Damaria]].

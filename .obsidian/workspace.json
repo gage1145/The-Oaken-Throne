@@ -6,19 +6,37 @@
       {
         "id": "1a155c9d2bd8c0a4",
         "type": "tabs",
+        "dimension": 41.36460554371002,
         "children": [
           {
-            "id": "cab5153a95ab2029",
+            "id": "c9ff7ecd8e3ab590",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 47.md",
+                "file": "Sessions/Session 48.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 47"
+              "title": "Session 48"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4d744f3a7a34ed4d",
+        "type": "tabs",
+        "dimension": 58.63539445628998,
+        "children": [
+          {
+            "id": "4e68002da6a8362a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -78,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 211.5
   },
   "right": {
     "id": "3779c4f5fc24f121",
@@ -188,11 +206,19 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "cab5153a95ab2029",
+  "active": "c9ff7ecd8e3ab590",
   "lastOpenFiles": [
+    "Amra.md",
+    "Jargen Empire.md",
+    "Sessions/Session 48.md",
+    "Malorian.md",
+    "Objects/Black Book.md",
+    "Duval.md",
+    "Sessions/Session 47.md",
+    "PCs/Jovis.md",
+    "2025-07-16.md",
     "Bones.md",
     "The Testament of Airesse.md",
-    "Sessions/Session 47.md",
     "Sessions/Session 46.md",
     "Sessions/Session 45.md",
     "Sessions",
@@ -205,21 +231,13 @@
     "PCs/Y-lana.md",
     "PCs/Kilpiaho.md",
     "PCs/Maximus.md",
-    "PCs/Jovis.md",
     "PCs/Jem.md",
     "PCs/Hipatia.md",
     "PCs/Elias.md",
     "PCs/Dovetail.md",
     "PCs/Domina.md",
     "PCs",
-    "Objects/Dagger.md",
-    "Objects/Cindertongue.md",
-    "Objects/Black Book.md",
     "Objects",
-    "NPCs/Zokar of Zim.md",
-    "NPCs/Velthur.md",
-    "NPCs/Urath of Ur.md",
-    "NPCs/Thomas Whitefeather.md",
     "NPCs",
     "Misc",
     "Magic",
