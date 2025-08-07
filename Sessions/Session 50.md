@@ -26,6 +26,7 @@ The [[Lamia]] live in the [[Twilight Orchard]]. This could be a connection to [[
 We camp down for the night. Agaron talks about a man he knew, and the battles he won. He speaks of [[Thol]] as a man or a friend rather than a prophet. At the end of the night, he said things were moving faster than Thol was prepared for, and he was not prepared for forming a church. 
 
 Elias tells him about the other 3 prophets. He is especially interested in [[Udar]] who was compassionate, which Thol was not. [[Millergock]] warned of the 4th prophet [[The Lightbringer]].
-
 # The Dragon
 The next day, a dragon flies across the sky and burns everyone to death. We all immediately woke up where we were before the event. 
+# Back at the boat
+Elias and Maximus shit their pants and were basically incapacitated. Y-lana visits the captain and informs him that the Meers was dead. He was happy to hear it. Definitely hungover. 
