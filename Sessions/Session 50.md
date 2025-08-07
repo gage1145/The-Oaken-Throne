@@ -30,3 +30,6 @@ Elias tells him about the other 3 prophets. He is especially interested in [[Uda
 The next day, a dragon flies across the sky and burns everyone to death. We all immediately woke up where we were before the event. 
 # Back at the boat
 Elias and Maximus shit their pants and were basically incapacitated. Y-lana visits the captain and informs him that the Meers was dead. He was happy to hear it. Definitely hungover. 
+
+Somebody tells him that Meers is dead. He gives a speech, and points out that he knows what they all did. He is willing to mostly forgive and move on. One guy raises his hand and before he can talk, the captain orders him into the brig. He thanks Elias for his service.
+# Arriving at [[Mirron]]
