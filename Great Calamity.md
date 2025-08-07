@@ -1,0 +1,1 @@
+First divined from the stars by [[Sebael Targus]] and [[Elias]].

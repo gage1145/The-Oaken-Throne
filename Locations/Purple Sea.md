@@ -1,0 +1,1 @@
+The sea to the west of [[Damaria]] and the [[Jargen Empire]].

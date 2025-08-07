@@ -1,0 +1,1 @@
+An ancient book which tells tale of [[The Oaken Throne]].
