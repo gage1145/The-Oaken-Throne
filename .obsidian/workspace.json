@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Religion/Udar.md",
+                "file": "Sessions/Session 50.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Udar"
+              "title": "Session 50"
             }
           }
         ]
@@ -215,12 +215,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "c9ff7ecd8e3ab590",
+  "active": "4e68002da6a8362a",
   "lastOpenFiles": [
+    "Religion/Inquisitor.md",
     "Sessions/Session 50.md",
+    "Religion/Udar.md",
     "NPCs/Thol.md",
     "NPCs/The Sword in The Soil.md",
-    "Religion/Udar.md",
     "Religion/The Lightbringer.md",
     "Religion/Millergock.md",
     "Misc/Lamia.md",
@@ -243,7 +244,6 @@
     "PCs/Domina.md",
     "PCs/Kibler Turnpike.md",
     "Locations/Amra.md",
-    "Organizations/Jargen Empire.md",
     "Sessions",
     "Religion",
     "PCs",
