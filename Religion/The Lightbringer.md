@@ -1,0 +1,1 @@
+The 4th prophet of [[Daaktrianism]] who brought on [[The Purge]].

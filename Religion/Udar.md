@@ -1,0 +1,1 @@
+The second prophet of [[Daaktrianism]]. More compassionate than his cohorts.

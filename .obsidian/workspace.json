@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 50.md",
+                "file": "Religion/Udar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 50"
+              "title": "Udar"
             }
           }
         ]
@@ -201,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,15 +215,25 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "4e68002da6a8362a",
+  "active": "c9ff7ecd8e3ab590",
   "lastOpenFiles": [
-    "PCs/Sebael Targus.md",
     "Sessions/Session 50.md",
+    "NPCs/Thol.md",
+    "NPCs/The Sword in The Soil.md",
+    "Religion/Udar.md",
+    "Religion/The Lightbringer.md",
+    "Religion/Millergock.md",
+    "Misc/Lamia.md",
+    "NPCs/Sir Agaron of the Way.md",
+    "Objects/The Testament of Airesse.md",
+    "NPCs/The Primod.md",
+    "Religion/Primod.md",
+    "Objects/Cindertongue.md",
+    "NPCs/Mister Meers.md",
+    "PCs/Sebael Targus.md",
     "Great Calamity.md",
     "NPCs/Zokar of Zim.md",
-    "NPCs/Mister Meers.md",
     "Locations/Purple Sea.md",
-    "Objects/The Testament of Airesse.md",
     "Organizations",
     "Locations/Malorian.md",
     "NPCs/Bones.md",
@@ -235,17 +244,7 @@
     "PCs/Kibler Turnpike.md",
     "Locations/Amra.md",
     "Organizations/Jargen Empire.md",
-    "Objects/Black Book.md",
-    "Locations/Duval.md",
-    "Sessions/Session 47.md",
-    "PCs/Jovis.md",
-    "2025-07-16.md",
-    "Sessions/Session 46.md",
-    "Sessions/Session 45.md",
     "Sessions",
-    "Religion/Primod.md",
-    "Religion/Inquisitor.md",
-    "Religion/Fexior.md",
     "Religion",
     "PCs",
     "Objects",
