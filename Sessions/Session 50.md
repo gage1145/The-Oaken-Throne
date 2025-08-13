@@ -11,7 +11,7 @@ The day after, Elias and [[Y-lana]] have a conversation about how to kill Mister
 
 Elias gently pulls the knife from him and wakes him up asking to talk. Meers holds on to his dagger. Elias and Y-lana tell him to not be hasty. He asks what our demands are. Elias asks what his intentions with the skull are. He is not planning on giving it to anyone. He says he was hired by [[The Man in Chains]]. He says to just kill him. Not like he could stop it. Elias informs Meers of the [[sea serpent]]. Elias just kills him by cutting his throat. They take his personal journal.
 # [[The Great Bright]]
-The crew goes above deck and the sun is unbearably bright. Soon it becomes clear that the brightness is supernatural. When everyone's vision clears, they are standing on a mountain pathway. Everyone meets Sebael! An old man in Daaktrain priest robes approaches, and asks [[Maximus]] if he is ok. He says we still have 3 more days along the pass. WTF?
+The crew goes above deck and the sun is unbearably bright. Soon it becomes clear that the brightness is supernatural. When everyone's vision clears, they are standing on a mountain pathway. Everyone meets Sebael! An old man in Daaktrian priest robes approaches, and asks [[Maximus]] if he is ok. He says we still have 3 more days along the pass. WTF?
 # 4000 Years in the Past
 Maximus notices our robes are old Jargen. The old man seems to be some kind of religious knight.
 
