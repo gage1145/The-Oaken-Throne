@@ -5,7 +5,7 @@ Maximus cuts the shadows from the masts to freak out the sailors I guess? They d
 
 [[Elias]] suggests interrogating [[Mister Meers]] the head mutineer or attacking him while he's sleeping. He decides on killing the dude in his sleep. He scouts out the sleeping quarters.
 
-***[[Sebael Targus]] and [[Elias]] notice something awry in the stars. A [[great calamity]] is coming...***
+***[[Sebael Targus]] and [[Elias]] notice something awry in the stars. A [[Great Calamity]] is coming...***
 
 The day after, Elias and [[Y-lana]] have a conversation about how to kill Mister Meers. They both lurk to the quarters. ELias draws his weapon and briefly examines whether Meers is holding a weapon under the pillow. He is.
 
