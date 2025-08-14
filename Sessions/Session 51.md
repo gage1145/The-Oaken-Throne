@@ -10,3 +10,7 @@ Jovis deduces that this guy does not give a shit about what Sir Grim is saying a
 Elias, Jem, and Sebael made it back to the Inn. Sir Grim informs us that Sir Pergrim visited them while they were gone. 
 # Meeting Whitefeather
 Sebael has met [[Errog]] who gave the group the invitation to Whitefeather. 
+
+Sebael and Elias sleep on the roof to divine the stars. Elias asks about a symbol etched into his skin. He acquired it when imprisoned in a mine. Sebael said it was familiar, but that he would need to meditate on it. He found out it was a symbol for the god [[Nangifer]], the god of monsters. Ripped his way out of his father and fed on his guts.
+
+Elias looked at the stars and got the feeling that they were not walking into a trap.
