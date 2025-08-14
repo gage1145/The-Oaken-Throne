@@ -1,0 +1,1 @@
+A port city in [[Damaria]] with access to the [[Purple Sea]].

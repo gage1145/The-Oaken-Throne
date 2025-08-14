@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,11 +205,20 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "4399ccdfa085f73c",
+  "active": "3a55a189f412de8f",
   "lastOpenFiles": [
-    "Religion/Nangifer.md",
+    "Religion/Fexior.md",
     "Sessions/Session 51.md",
+    "Locations/Mirron.md",
+    "Misc/Wood Elves.md",
     "PCs/Sebael Targus.md",
+    "PCs/Domina.md",
+    "PCs/Hipatia.md",
+    "Locations/Arosel Stone Circle.md",
+    "Locations/Arosel Forest.md",
+    "NPCs/Jon.md",
+    "Locations/Sheet Fish River.md",
+    "Religion/Nangifer.md",
     "NPCs/Sir Henek Olem.md",
     "Organizations/The Knight Guard.md",
     "NPCs/Sir Pergrim Dentar.md",
@@ -226,15 +234,6 @@
     "Religion/Inquisitor.md",
     "Religion/Udar.md",
     "NPCs/Thol.md",
-    "NPCs/The Sword in The Soil.md",
-    "Religion/The Lightbringer.md",
-    "Religion/Millergock.md",
-    "NPCs/Sir Agaron of the Way.md",
-    "Objects/The Testament of Airesse.md",
-    "NPCs/The Primod.md",
-    "Religion/Primod.md",
-    "Objects/Cindertongue.md",
-    "NPCs/Mister Meers.md",
     "Organizations",
     "Sessions",
     "Religion",

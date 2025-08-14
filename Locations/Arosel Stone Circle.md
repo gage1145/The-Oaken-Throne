@@ -1,0 +1,1 @@
+A religious monument located in the [[Arosel Forest]].

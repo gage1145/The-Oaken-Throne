@@ -8,3 +8,5 @@ Has ties to [[Thomas Whitefeather]]. Was a diplomat for the [[Wood Elves]].
 
 In [[Session 50]], he discovered that he will be a crucial component of the coming [[Great Calamity]].
 
+Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y-lana]], [[Elias]], and [[Jovis]].
+
