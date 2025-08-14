@@ -1,0 +1,1 @@
+A knight of [[The Crystal Order]] that fought and lost to [[Y-lana]] during that one session way back.

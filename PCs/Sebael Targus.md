@@ -1,3 +1,4 @@
+![](https://www.dictionary.com/e/wp-content/uploads/2018/03/Inigo-Montoya1.jpg)
 Background: [[Dybbuk]] Cultist
 Folk: [[Damaria]]n
 Sex: male

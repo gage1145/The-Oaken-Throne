@@ -1,0 +1,1 @@
+The leader of [[The Knight Guard]].
