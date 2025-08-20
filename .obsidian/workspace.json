@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Session 51"
             }
+          },
+          {
+            "id": "a42b75d31f65455c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4d744f3a7a34ed4d",
@@ -172,8 +185,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -195,6 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -205,7 +219,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "3a55a189f412de8f",
+  "active": "a42b75d31f65455c",
   "lastOpenFiles": [
     "Religion/Fexior.md",
     "Sessions/Session 51.md",
