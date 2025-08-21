@@ -1,1 +1,1 @@
-The god of monsters. Was born by erupting out of his father and feasting on his guts.
+The [[Damaria]]n god of monsters. Was born by erupting out of his father and feasting on his guts.
