@@ -1,0 +1,1 @@
+Friends with [[Eleen]]. Tried to kill [[Urath of Ur]].

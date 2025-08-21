@@ -1,0 +1,1 @@
+Friends with [[Bizat]]. Tried to kill [[Urath of Ur]], but the group convinced them not to.
