@@ -10,3 +10,5 @@ He begrudgingly apologized. I'm not sure why. No one was asking him to do it. Bi
 Eleen mentions they too are heading toward [[Targus]]. Elias made breakfast? He was obsessed with taking everyone into the forest to see some weird ruins? He saw an entity that had rows of sharp teeth. There are tons of spirits and undead that this could be. Elias said it was [[Noxo]]. [[Sir Grim]] said it is a boogeyman to scare children - a terrible thing that has two faces. Sebael recalls that Noxo is also [[Nangifer]]. When he points this out to Elias, Elias attacks him. When he sees that everyone is about to engage in combat, he runs into the forest.
 # Going into the Forest
 [[Maximus]] and Sebael chase after him. Maximus yells at Sebael for telling Elias' secrets and shadow walks into the forest. Sebael is left alone in the field. He also continues toward the forest.
+
+Sebael casts a concealing mist and a pea soup fog envelops the surrounding area. Maximus stops all the shadows and immobilizes Sebael and Elias. Elias slowly frees himself from the sticky shadows.
