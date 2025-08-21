@@ -205,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,8 +222,11 @@
   },
   "active": "599c9c4b17d65aab",
   "lastOpenFiles": [
-    "PCs/Sebael Targus.md",
     "Sessions/Session 52.md",
+    "Organizations/The Knight Guard.md",
+    "NPCs/Sir Idimus.md",
+    "Locations/Demiliac's Fortress.md",
+    "PCs/Sebael Targus.md",
     "Locations/Targus.md",
     "Locations/Khrun Mountains.md",
     "Sessions/Session 51.md",
@@ -247,9 +249,6 @@
     "NPCs/Jon.md",
     "Locations/Sheet Fish River.md",
     "NPCs/Sir Henek Olem.md",
-    "Organizations/The Knight Guard.md",
-    "NPCs/Sir Pergrim Dentar.md",
-    "Organizations/The Crystal Order.md",
     "Events",
     "Organizations",
     "Sessions",

@@ -1,0 +1,1 @@
+A fortress in [[Damaria]] just south of [[Targus]].

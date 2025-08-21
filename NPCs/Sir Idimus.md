@@ -1,0 +1,1 @@
+A knight at [[Demiliac's Fortress]] guarding [[Thomas Whitefeather]]. He rode up to meet the group before we went into the fortress.

@@ -19,5 +19,12 @@ Elias demanded that Sebael apologized. He did and as he was approaching, Sebael 
 # Arriving in Targus
 We arrived in [[Eram]] and met up with Bizat and Eleen. They aren't going our direction but they hope to see us again. A day later, we reached Targus. The guards at the wall told us that [[Thomas Whitefeather]] is at [[Demiliac's Fortress]] to the south of the city. The guards let us into the city.
 
-Elias and Maximus go off on a shopping spree and buy some nice clothes for when we reach Whitefeather.
+Elias and Maximus go off on a shopping spree and buy some nice clothes for when we reach Whitefeather. For some reason, Elias is insisting on changing his hair color to green. I think he's having an identity crisis.
+
+# Demiliac's Fortress
+We arrive at the fortress and some guards ride their horses toward us to meet us.
+
+*Who are you that come calling a Demiliac's Fortress?*
+
+They confirmed that we had an invite. His name is [[Sir Idimus]]. They let us in. We are given a suite. 
 
