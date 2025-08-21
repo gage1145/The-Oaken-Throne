@@ -110,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3779c4f5fc24f121",
@@ -224,11 +223,13 @@
   },
   "active": "599c9c4b17d65aab",
   "lastOpenFiles": [
-    "Locations/Targus.md",
+    "PCs/Sebael Targus.md",
     "Sessions/Session 52.md",
+    "Locations/Targus.md",
+    "Locations/Khrun Mountains.md",
+    "Sessions/Session 51.md",
     "Locations/Tibara.md",
     "Religion/Nangifer.md",
-    "Sessions/Session 51.md",
     "Noxo.md",
     "NPCs/Sir Agaron of the Way.md",
     "NPCs/Eleen.md",
@@ -239,7 +240,6 @@
     "Religion/Fexior.md",
     "Locations/Mirron.md",
     "Misc/Wood Elves.md",
-    "PCs/Sebael Targus.md",
     "PCs/Domina.md",
     "PCs/Hipatia.md",
     "Locations/Arosel Stone Circle.md",
@@ -250,7 +250,6 @@
     "Organizations/The Knight Guard.md",
     "NPCs/Sir Pergrim Dentar.md",
     "Organizations/The Crystal Order.md",
-    "Locations/Blackford.md",
     "Events",
     "Organizations",
     "Sessions",

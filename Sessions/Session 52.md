@@ -11,4 +11,13 @@ Eleen mentions they too are heading toward [[Targus]]. Elias made breakfast? He 
 # Going into the Forest
 [[Maximus]] and Sebael chase after him. Maximus yells at Sebael for telling Elias' secrets and shadow walks into the forest. Sebael is left alone in the field. He also continues toward the forest.
 
-Sebael casts a concealing mist and a pea soup fog envelops the surrounding area. Maximus stops all the shadows and immobilizes Sebael and Elias. Elias slowly frees himself from the sticky shadows.
+Sebael casts a concealing mist and a pea soup fog envelops the surrounding area. Maximus stops all the shadows and immobilizes Sebael and Elias. Elias slowly frees himself from the sticky shadows. 
+
+Elias demanded that Sebael apologized. He did and as he was approaching, Sebael attempted to detect any spirits that may have possessed Elias. He's not even fucking possessed. It was just Elias. They made up.
+# Back at Camp
+[[Y-lana]] is pissed and attempts to punch Elias. Sebael insisted that she shouldn't hurt Elias and that it was his fault that Elias ran off into the forest. Grim asked what the fuck all that was about and insists that Elias' craziness may be due to Noxo. Sebael gives him a side-eye nod.
+# Arriving in Targus
+We arrived in [[Eram]] and met up with Bizat and Eleen. They aren't going our direction but they hope to see us again. A day later, we reached Targus. The guards at the wall told us that [[Thomas Whitefeather]] is at [[Demiliac's Fortress]] to the south of the city. The guards let us into the city.
+
+Elias and Maximus go off on a shopping spree and buy some nice clothes for when we reach Whitefeather.
+

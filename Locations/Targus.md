@@ -1,1 +1,1 @@
-The capital city of [[Damaria]]. Home of [[Sebael Targus]].
+The capital city of [[Damaria]]. Home of [[Sebael Targus]]. Located at the foot of the [[Khrun Mountains]].
