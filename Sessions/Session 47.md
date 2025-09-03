@@ -3,7 +3,7 @@
 
 **Jem discovers they can't shadow walk anymore.**
 # Escaping [[Tibara]]
-[[Jem]], [[Maximus]], and [[Jovis]] stayed in Tibara while [[Domina]], [[Elias]], and [[Y-lana]] shadow walked out of the city. Elias failed, but Domina and Y-lana both used an advantage to save him. The plan is to meet up in a town to the south called [[Elatar]].
+[[Jem]], [[Maximus]], and [[Jovis]] stayed in Tibara while [[Domina]], [[Elias]], and [[Y'lana]] shadow walked out of the city. Elias failed, but Domina and Y-lana both used an advantage to save him. The plan is to meet up in a town to the south called [[Elatar]].
 
 Jem informs Maximus and Jovis that their shadow walking is not working, and there are a looooot of guards patrolling. Jem asked Maximus if he could cast [[shadow walking]], but Maximus refused citing concern of magical detection surrounding the city.
 

@@ -1,1 +1,1 @@
-The city within the [[Jargen Empire]] where the story began. Was home to [[Domina]], [[Elias]], [[Y-lana]], [[Maximus]], [[Jem]], and [[Jovis]].
+The city within the [[Jargen Empire]] where the story began. Was home to [[Domina]], [[Elias]], [[Y'lana]], [[Maximus]], [[Jem]], and [[Jovis]].

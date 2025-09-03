@@ -1,0 +1,1 @@
+The chirurgist in [[Demiliac's Fortress]]. Interacted mainly with [[Jem]].

@@ -3,7 +3,7 @@
 
 We made it to the medicus where we left Spoon. He said that Spoon left a couple weeks ago. We suspect that he went back to be with that one hoe that he was obsessed with in [[Blackford]]. We decide to return to the inn.
 # Back at the Inn
-A skinny little twink approaches [[Y-lana]] while she's with Sir Grim and [[Jovis]]. It's [[Sir Pergrim Dentar]]! [[Sir Grim]] tells him to join the group. He asked if they had met with [[Sir Henek Olem]] since he had tried arresting the group the first time. Sir Grim does most of the talking to try and divert his attention. Maybe he's a fucking narc? 
+A skinny little twink approaches [[Y'lana]] while she's with Sir Grim and [[Jovis]]. It's [[Sir Pergrim Dentar]]! [[Sir Grim]] tells him to join the group. He asked if they had met with [[Sir Henek Olem]] since he had tried arresting the group the first time. Sir Grim does most of the talking to try and divert his attention. Maybe he's a fucking narc? 
 
 Jovis deduces that this guy does not give a shit about what Sir Grim is saying about [[Lot van Culnar]]. He's obviously just trying to determine if we've had any more interaction with [[The Knight Guard]]. Jovis decides to bore him with a story of woodworking to get him to stop prying.
 

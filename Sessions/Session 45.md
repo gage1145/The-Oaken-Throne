@@ -6,12 +6,12 @@ We have a unique opportunity to access the archives. We should use this moment t
 We debate about whether [[Maximus]] should use [[Angels]] to learn about [[The Oaken Throne]] or about [[The Sword in The Soil]]. 
 ## What is our backstory?
 We are diplomats from [[Drunok]]. The reason we don't have accents is because we emigrated there. We are sympathetic to [[Daaktrianism]] in [[Tibara]].
-## [[Jovis]] and [[Y-lana]] follow [[Bold Ferinius]] 
-[[Jovis]] follow him to the slums of [[Tibara]]. 4 guys were with him, only 2 went in. [[Y-lana]] dropped all of her armor and weapons since none of it was concealable. She keeps [[Dagger]]. They consider fucking killing this guy lol. They are also considering where to hide while they wait for these fuckers to exit.
+## [[Jovis]] and [[Y'lana]] follow [[Bold Ferinius]] 
+[[Jovis]] follow him to the slums of [[Tibara]]. 4 guys were with him, only 2 went in. [[Y'lana]] dropped all of her armor and weapons since none of it was concealable. She keeps [[Dagger]]. They consider fucking killing this guy lol. They are also considering where to hide while they wait for these fuckers to exit.
 ## Infiltrating the [[Abarat's Palace]]
 [[Prelod Vargus]] tells us to change our clothes into our diplomat clothes. We will meet him at 5pm at some address. [[Elias]] and [[Domina]] go back to meet up with the rest of the group.
 
-[[Domina]] and [[Y-lana]] go to meet the Prelod. [[Maximus]] immediately introduces himself. The Prelod demands another 150 silver or he's telling everyone our plan.
+[[Domina]] and [[Y'lana]] go to meet the Prelod. [[Maximus]] immediately introduces himself. The Prelod demands another 150 silver or he's telling everyone our plan.
 
 The [[Aberat]] has been focused on restoration of the religious architecture in [[Tibara]]. 
 

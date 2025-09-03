@@ -7,7 +7,7 @@ Maximus cuts the shadows from the masts to freak out the sailors I guess? They d
 
 ***[[Sebael Targus]] and [[Elias]] notice something awry in the stars. A [[Great Calamity]] is coming...***
 
-The day after, Elias and [[Y-lana]] have a conversation about how to kill Mister Meers. They both lurk to the quarters. ELias draws his weapon and briefly examines whether Meers is holding a weapon under the pillow. He is.
+The day after, Elias and [[Y'lana]] have a conversation about how to kill Mister Meers. They both lurk to the quarters. ELias draws his weapon and briefly examines whether Meers is holding a weapon under the pillow. He is.
 
 Elias gently pulls the knife from him and wakes him up asking to talk. Meers holds on to his dagger. Elias and Y-lana tell him to not be hasty. He asks what our demands are. Elias asks what his intentions with the skull are. He is not planning on giving it to anyone. He says he was hired by [[The Man in Chains]]. He says to just kill him. Not like he could stop it. Elias informs Meers of the [[sea serpent]]. Elias just kills him by cutting his throat. They take his personal journal.
 # [[The Great Bright]]

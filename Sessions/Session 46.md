@@ -16,13 +16,13 @@ Domina and Maximus shadow walk out. Domina yells that this whole thing was done 
 
 # [[Bold Ferinius]] Assassination Cont'd
 
-[[Jovis]] and [[Y-lana]] are waiting on the rooftop waiting for this guy to exit. There are two guys waiting around guarding the door. The two PC's hear them talking, but it's just dumbass banter. Completely useless information. They sneak in through a window. Y'lana actually shadow walks in because apparently she still had it from a previous session. It's a well-furnished room, a study maybe. She listens at the door and hears a couple soft voices, perhaps playing a game. She looks through the keyhole and decides to shadow walk through. Y-lana opens a window to let Jovis into the study.
+[[Jovis]] and [[Y'lana]] are waiting on the rooftop waiting for this guy to exit. There are two guys waiting around guarding the door. The two PC's hear them talking, but it's just dumbass banter. Completely useless information. They sneak in through a window. Y'lana actually shadow walks in because apparently she still had it from a previous session. It's a well-furnished room, a study maybe. She listens at the door and hears a couple soft voices, perhaps playing a game. She looks through the keyhole and decides to shadow walk through. Y-lana opens a window to let Jovis into the study.
 
 After discussing what to do, Y-lana shadow walked outside to find a new window? There's another door, and nobody inside the room. They finally get to a room with a woman in bed who asks what they're doing there.
 
 Y'lana attempts to deceive her by making her think she made a vow of silence since she was in monk clothes.
 
-[[Y-lana]] finally makes it into the room with Bold Ferinius. It is filled with tobacco smoke. There is another man with him. Y-lana shadow walks behind Ferinius. Y-lana fucking stabs him in his throat. She then lunges over the table to stab the other guy. She stabs him so hard in the arm that she broke his bone.
+[[Y'lana]] finally makes it into the room with Bold Ferinius. It is filled with tobacco smoke. There is another man with him. Y-lana shadow walks behind Ferinius. Y-lana fucking stabs him in his throat. She then lunges over the table to stab the other guy. She stabs him so hard in the arm that she broke his bone.
 
 Jovis went through Ferinius' desk drawer and found a pouch of gold! Jovis staged the scene to make it seem like they killed each other.
 
