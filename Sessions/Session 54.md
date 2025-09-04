@@ -25,3 +25,5 @@ Sebael planted a seed of doubt in Sir Grim about the group.
 Maximus asked his ***FUCKING ANGELS*** to tell him who was trying to kill [[Thomas Whitefeather]]. Of course he found out Sebael's plan...
 # Elias speaks with Grim
 Elias offers Grim to stab him if he offends him again? Grim does not understand the gesture.
+# The Feast
+We make our way to the great hall. Maximus, Grim, and Sebael are seated together close to Whitefeather. Maximus is drinking blood??? We were led up to him and he said we have been causing trouble for some time now. He knows we have had interactions with the Van Kulnar's.

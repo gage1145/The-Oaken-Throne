@@ -48,8 +48,7 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 	- Purification of the Polluted Site - Purify place
 	- Protective Sigil of the Gods - Defense against magic
 		- Instant, lasts for concentration amount of time, casted to a target
-	- Exorcism of the Unholy Spirit 
-
+	- Exorcism of the Unholy Spirit
 ## Options for Spellbook (if not using above list)
 - Mystery of the Subjugation of the Undead
 - Mystery of the Macabre Arts
