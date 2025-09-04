@@ -44,7 +44,7 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 		- Can see in mist
 	- Blur Vision
 - Mystery of Banishment - All
-	- The Gods’ Rejection - Force mad god onto someone else (like if I make my god mad)
+	- The Gods’ Rejection - Force mad god onto someone else (like if I make my god mad) 
 	- Purification of the Polluted Site - Purify place
 	- Protective Sigil of the Gods - Defense against magic
 		- Instant, lasts for concentration amount of time, casted to a target

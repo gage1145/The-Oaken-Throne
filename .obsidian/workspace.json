@@ -50,7 +50,8 @@
               "title": "Doriel Tyrana"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "186d07e48348839c",
@@ -236,11 +237,11 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "599c9c4b17d65aab",
+  "active": "b29eb7e4db6f6c44",
   "lastOpenFiles": [
-    "PCs/Sebael Targus.md",
     "Doriel Tyrana.md",
     "Sessions/Session 54.md",
+    "PCs/Sebael Targus.md",
     "Eram.md",
     "Lady Alexa.md",
     "NPCs/Sir Idimus.md",
