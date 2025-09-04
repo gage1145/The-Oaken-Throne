@@ -6,7 +6,7 @@
       {
         "id": "1a155c9d2bd8c0a4",
         "type": "tabs",
-        "dimension": 44.21241050119332,
+        "dimension": 49.040511727078886,
         "children": [
           {
             "id": "599c9c4b17d65aab",
@@ -28,20 +28,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Sir Idimus.md",
+                "file": "PCs/Sebael Targus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sir Idimus"
+              "title": "Sebael Targus"
+            }
+          },
+          {
+            "id": "6187d4768d60685e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doriel Tyrana.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Doriel Tyrana"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "186d07e48348839c",
         "type": "tabs",
-        "dimension": 55.787589498806675,
+        "dimension": 50.95948827292111,
         "children": [
           {
             "id": "9b296ec2965d9c19",
@@ -222,13 +237,16 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "599c9c4b17d65aab",
+  "active": "b29eb7e4db6f6c44",
   "lastOpenFiles": [
-    "PCs/Y'lana.md",
     "Sessions/Session 54.md",
-    "Durm.md",
-    "NPCs/Sir Idimus.md",
+    "Eram.md",
+    "Doriel Tyrana.md",
     "PCs/Sebael Targus.md",
+    "Lady Alexa.md",
+    "NPCs/Sir Idimus.md",
+    "PCs/Y'lana.md",
+    "Durm.md",
     "Sessions/Session 52.md",
     "Organizations/The Knight Guard.md",
     "Locations/Demiliac's Fortress.md",
@@ -248,9 +266,6 @@
     "Locations/Mirron.md",
     "Misc/Wood Elves.md",
     "PCs/Domina.md",
-    "PCs/Hipatia.md",
-    "Locations/Arosel Stone Circle.md",
-    "Locations/Arosel Forest.md",
     "Events",
     "Organizations",
     "Sessions",

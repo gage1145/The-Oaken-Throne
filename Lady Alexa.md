@@ -1,0 +1,1 @@
+The heiress to [[Lot van Culnar]]. We met her in [[Demiliac's Fortress]].

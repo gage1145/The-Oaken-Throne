@@ -1,0 +1,1 @@
+An assassin that owed a favor to [[Sebael Targus]].
