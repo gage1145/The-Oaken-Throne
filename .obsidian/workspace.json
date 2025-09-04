@@ -50,7 +50,8 @@
               "title": "Doriel Tyrana"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "186d07e48348839c",
@@ -220,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,12 +236,12 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "599c9c4b17d65aab",
+  "active": "b29eb7e4db6f6c44",
   "lastOpenFiles": [
-    "NPCs/Thomas Whitefeather.md",
-    "Sessions/Session 54.md",
-    "PCs/Sebael Targus.md",
     "Doriel Tyrana.md",
+    "PCs/Sebael Targus.md",
+    "Sessions/Session 54.md",
+    "NPCs/Thomas Whitefeather.md",
     "Eram.md",
     "Lady Alexa.md",
     "NPCs/Sir Idimus.md",
