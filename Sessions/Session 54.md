@@ -14,3 +14,14 @@ They try to figure out what her deal is, but it looks like she was just having f
 ***"If you survive the feast, I have a message from my cousin. - Lady Alexa"***
 
 Jem talks like a school girl to the telephone rock to [[Urath of Ur]] telling him all the goss.
+
+# Preparing for the feast
+The group hides the [[Black Book]] because it would almost certainly be confiscated. The group asks Sebael to step out during this, and he becomes suspicious. The group is also trying to keep the information from [[Sir Grim]], and he is very suspicious. He has been a part of the group since day one after all.
+
+***"I assume this has something to do with your business in [[Tibara]]." - Sir Grim***
+
+Sebael planted a seed of doubt in Sir Grim about the group.
+
+Maximus asked his ***FUCKING ANGELS*** to tell him who was trying to kill [[Thomas Whitefeather]]. Of course he found out Sebael's plan...
+# Elias speaks with Grim
+Elias offers Grim to stab him if he offends him again? Grim does not understand the gesture.
