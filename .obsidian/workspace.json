@@ -6,7 +6,7 @@
       {
         "id": "1a155c9d2bd8c0a4",
         "type": "tabs",
-        "dimension": 43.43675417661098,
+        "dimension": 49.68017057569296,
         "children": [
           {
             "id": "599c9c4b17d65aab",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 56.md",
+                "file": "Session.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 56"
+              "title": "Session"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "186d07e48348839c",
         "type": "tabs",
-        "dimension": 56.56324582338902,
+        "dimension": 50.31982942430704,
         "children": [
           {
             "id": "9b296ec2965d9c19",
@@ -223,10 +223,10 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "3a3f1d52e5aadfc8",
+  "active": "9b296ec2965d9c19",
   "lastOpenFiles": [
+    "Session.md",
     "Sessions/Session 54.md",
-    "Session 56.md",
     "PCs/Sebael Targus.md",
     "Doriel Tyrana.md",
     "NPCs/Thomas Whitefeather.md",
