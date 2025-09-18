@@ -27,3 +27,7 @@ Jem opens up the [[Black Book]] and started to fucking go at it with a knife! He
 
 [[Avomorat]] emerged from the moat to greet us. We make our way to the library where Urath is waiting. He's fucking old as shit.
 
+Urath is extremely concerned with Maximus. We don't know why...
+
+Urath spoke with Sebael and Elias. They tried to explain to him about the [[Great Calamity]] incoming. Urath failed to see why that is his problem.
+

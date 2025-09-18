@@ -1,1 +1,1 @@
-The party pet dog.
+The party pet dog. Had a love-hate relationship with [[Domina]] before she died. Has bonded with [[Jovis]].
