@@ -6,7 +6,7 @@
       {
         "id": "1a155c9d2bd8c0a4",
         "type": "tabs",
-        "dimension": 49.68017057569296,
+        "dimension": 44.562899786780385,
         "children": [
           {
             "id": "599c9c4b17d65aab",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 56.md",
+                "file": "Sessions/Session 50.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Session 56"
+              "title": "Session 50"
             }
           },
           {
@@ -46,13 +46,12 @@
               "title": "Sebael Targus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "186d07e48348839c",
         "type": "tabs",
-        "dimension": 50.31982942430704,
+        "dimension": 55.437100213219615,
         "children": [
           {
             "id": "9b296ec2965d9c19",
@@ -232,12 +231,15 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "865781843556624d",
+  "active": "599c9c4b17d65aab",
   "lastOpenFiles": [
+    "Sessions/Session 51.md",
+    "Sessions/Session 52.md",
     "Sessions/Session 56.md",
+    "Avomorat.md",
+    "PCs/Sebael Targus.md",
     "NPCs/Wolverine Wood Lechid.md",
     "PCs/Hipatia.md",
-    "PCs/Sebael Targus.md",
     "NPCs/Zokar of Zim.md",
     "Animals/Lil' Cal.md",
     "Animals/Endoscopy.md",
@@ -258,9 +260,6 @@
     "Organizations/Thalmar.md",
     "NPCs/Durm.md",
     "Objects/Ring of Thomas Whitefeather.md",
-    "NPCs/Steward Agram.md",
-    "NPCs/Sebael Kess.md",
-    "NPCs/Sanguious Thalkatada.md",
     "Events",
     "Organizations",
     "Sessions",

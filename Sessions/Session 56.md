@@ -22,4 +22,8 @@ We all bought some horses! We've never had horses before! Sebael's is a palomino
 
 # In [[Theranos]]
 Alt Elias came out and had a crisis over killing people with Jovis.
+# The Road to [[Urath of Ur]]
+Jem opens up the [[Black Book]] and started to fucking go at it with a knife! He decided against it thank Daak. Eventually we make it to [[Helm]] and boarded the horses. We then continued to Urath's tower.
+
+[[Avomorat]] emerged from the moat to greet us. We make our way to the library where Urath is waiting. He's fucking old as shit.
 
