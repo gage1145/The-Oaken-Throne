@@ -1,0 +1,1 @@
+We think it lies in the [[Kraalen Mountains]]. [[Lot van Culnar]] sent us on a quest to find it.

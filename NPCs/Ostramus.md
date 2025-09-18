@@ -1,0 +1,1 @@
+An ancient [[Kolonan Empire]] scholar who wrote the [[The Ecumenical Advance]]. He was known for being a pagan religious scholar. These days he is considered a great philosopher within the [[Jargen Empire]] and also within [[Daaktrianism]]. 

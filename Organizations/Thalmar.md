@@ -1,0 +1,1 @@
+A political faction east of [[Damaria]] and is an enemy to both Damaria and the [[Jargen Empire]].

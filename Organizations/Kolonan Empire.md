@@ -1,0 +1,1 @@
+Ancient empire. Remnants include [[Thalmar]] and [[Konsomar]].

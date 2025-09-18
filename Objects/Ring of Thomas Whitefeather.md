@@ -1,0 +1,1 @@
+A ring given to the group by [[Thomas Whitefeather]]. It allows us easier movement through [[Damaria]].

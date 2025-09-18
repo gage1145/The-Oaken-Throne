@@ -1,0 +1,14 @@
+# In The Wood
+We're in a small encampment in the wood. We need to make a plan. We had initially decided on taking the 500 silver and the [[Ring of Thomas Whitefeather]]. We return to [[Thomas Whitefeather]]'s table to inform him of our decision. We actually talk to [[Steward Agram]]. [[Maximus]] informs the steward of our decision and that we will return in 6 months or sooner.
+
+Maximus tells Whitefeather that [[Sebael Kess]] is an agent of [[Thalmar]]. Whitefeather asks his mage if this is true. The mage says "maybe?".
+
+[[Elias]] informs the steward that the court mage is a traitor, and that the name of the witch lord is [[Sanguious Thalkatada]].
+
+Whitefeather pull [[Sebael Targus]] aside and asks that he write back on the group's dealings.
+# [[Demiliac's Fortress]]
+Elias meets with [[Lady Alexa]]. Alexa asks about [[The Ecumenical Advance]]. How very suspicious that she asked about that book in Elias' presence.
+
+We finally get our 500 silver. Sebael got 1000.
+# The Road to [[Targus]]
+

@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 56.md",
+                "file": "Objects/Golden Skull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 56"
+              "title": "Golden Skull"
             }
           }
         ],
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3779c4f5fc24f121",
@@ -225,33 +224,33 @@
   },
   "active": "3a3f1d52e5aadfc8",
   "lastOpenFiles": [
-    "Session 56.md",
+    "Sessions/Session 56.md",
     "Sessions/Session 54.md",
+    "Objects/The Ecumenical Advance.md",
+    "Locations/The Oaken Throne.md",
+    "Kraalen Mountains.md",
+    "NPCs/Ostramus.md",
+    "Organizations/Kolonan Empire.md",
+    "Organizations/Thalmar.md",
+    "NPCs/Durm.md",
+    "Objects/Ring of Thomas Whitefeather.md",
+    "NPCs/Steward Agram.md",
+    "NPCs/Sebael Kess.md",
+    "NPCs/Sanguious Thalkatada.md",
     "PCs/Sebael Targus.md",
-    "Doriel Tyrana.md",
+    "NPCs/Doriel Tyrana.md",
     "NPCs/Thomas Whitefeather.md",
-    "Eram.md",
-    "Lady Alexa.md",
+    "NPCs/Eram.md",
+    "NPCs/Lady Alexa.md",
     "NPCs/Sir Idimus.md",
     "PCs/Y'lana.md",
-    "Durm.md",
     "Sessions/Session 52.md",
     "Organizations/The Knight Guard.md",
     "Locations/Demiliac's Fortress.md",
     "Locations/Targus.md",
     "Locations/Khrun Mountains.md",
     "Sessions/Session 51.md",
-    "Locations/Tibara.md",
-    "Religion/Nangifer.md",
-    "Noxo.md",
-    "NPCs/Sir Agaron of the Way.md",
-    "NPCs/Eleen.md",
-    "NPCs/Bizat.md",
-    "PCs/Dovetail.md",
-    "PCs/Kilpiaho.md",
     "Untitled",
-    "Religion/Fexior.md",
-    "Locations/Mirron.md",
     "Events",
     "Organizations",
     "Sessions",
