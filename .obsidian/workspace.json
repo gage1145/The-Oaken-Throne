@@ -6,7 +6,7 @@
       {
         "id": "1a155c9d2bd8c0a4",
         "type": "tabs",
-        "dimension": 44.562899786780385,
+        "dimension": 49.343675417661096,
         "children": [
           {
             "id": "599c9c4b17d65aab",
@@ -45,14 +45,28 @@
               "icon": "lucide-file",
               "title": "Session 56"
             }
+          },
+          {
+            "id": "b1c74988d3668db1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Sebael Targus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sebael Targus"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "186d07e48348839c",
         "type": "tabs",
-        "dimension": 55.437100213219615,
+        "dimension": 50.65632458233891,
         "children": [
           {
             "id": "9b296ec2965d9c19",
@@ -216,7 +230,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,13 +246,15 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "9b296ec2965d9c19",
+  "active": "b1c74988d3668db1",
   "lastOpenFiles": [
+    "Sessions/Session 56.md",
+    "Sessions/Session 50.md",
+    "PCs/Maximus.md",
+    "PCs/Sebael Targus.md",
+    "NPCs/Sebael Kess.md",
     "NPCs/Eram.md",
     "Animals/Dragon.md",
-    "Sessions/Session 56.md",
-    "PCs/Sebael Targus.md",
-    "Sessions/Session 50.md",
     "Sessions/Session 51.md",
     "Sessions/Session 52.md",
     "Avomorat.md",
@@ -258,8 +275,6 @@
     "Objects/The Ecumenical Advance.md",
     "Locations/The Oaken Throne.md",
     "Kraalen Mountains.md",
-    "NPCs/Ostramus.md",
-    "Organizations/Kolonan Empire.md",
     "Events",
     "Organizations",
     "Sessions",

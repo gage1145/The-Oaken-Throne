@@ -31,3 +31,5 @@ Urath is extremely concerned with Maximus. We don't know why...
 
 Urath spoke with Sebael and Elias. They tried to explain to him about the [[Great Calamity]] incoming. Urath failed to see why that is his problem.
 
+Urath went to speak with Maximus in private. He's totally fucked lol. Maximus looked in a mirror and realized he's basically a fucking zombie???? 
+
