@@ -13,7 +13,7 @@ We finally get our 500 silver. Sebael got 1000.
 # The Road to [[Targus]]
  Nothing happened.
 # In Targus
-We all bought some horses! We've never had horses before! Sebael's is a palomino and his name is [[Horace]].
+We all bought some horses! We've never had horses before! Sebael's is a palomino named [[Horace]].
 [[Rabbet]]: [[Jovis]]
 [[Jetta]]: [[Y'lana]]
 [[Minimus]]: [[Maximus]]
@@ -31,5 +31,5 @@ Urath is extremely concerned with Maximus. We don't know why...
 
 Urath spoke with Sebael and Elias. They tried to explain to him about the [[Great Calamity]] incoming. Urath failed to see why that is his problem.
 
-Urath went to speak with Maximus in private. He's totally fucked lol. Maximus looked in a mirror and realized he's basically a fucking zombie???? 
+Urath went to speak with Maximus in private. He's totally fucked lol. Maximus looked in a mirror and realized he's basically a fucking zombie???? Urath informs us that it is due to his immense greed. Maximus did in fact consider murdering a village for their gold.
 
