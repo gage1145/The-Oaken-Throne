@@ -11,4 +11,15 @@ Elias meets with [[Lady Alexa]]. Alexa asks about [[The Ecumenical Advance]]. Ho
 
 We finally get our 500 silver. Sebael got 1000.
 # The Road to [[Targus]]
+ Nothing happened.
+# In Targus
+We all bought some horses! We've never had horses before! Sebael's is a palomino and his name is [[Horace]].
+[[Rabbet]]: [[Jovis]]
+[[Jetta]]: [[Y'lana]]
+[[Minimus]]: [[Maximus]]
+[[Endoscopy]]: [[Jem]]
+[[Lil' Cal]]: [[Elias]]
+
+# In [[Theranos]]
+Alt Elias came out and had a crisis over killing people with Jovis.
 

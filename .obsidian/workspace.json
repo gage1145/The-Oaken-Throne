@@ -14,26 +14,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 54.md",
+                "file": "Sessions/Session 56.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Session 54"
+              "title": "Session 56"
             }
           },
           {
-            "id": "3a3f1d52e5aadfc8",
+            "id": "865781843556624d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Objects/Golden Skull.md",
+                "file": "PCs/Sebael Targus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Golden Skull"
+              "title": "Sebael Targus"
             }
           }
         ],
@@ -222,10 +232,24 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "3a3f1d52e5aadfc8",
+  "active": "865781843556624d",
   "lastOpenFiles": [
     "Sessions/Session 56.md",
+    "NPCs/Wolverine Wood Lechid.md",
+    "PCs/Hipatia.md",
+    "PCs/Sebael Targus.md",
+    "NPCs/Zokar of Zim.md",
+    "Animals/Lil' Cal.md",
+    "Animals/Endoscopy.md",
+    "NPCs/Rikkus.md",
+    "Animals",
+    "Animals/Minimus.md",
+    "Animals/Jetta.md",
+    "Animals/Rabbet.md",
+    "Animals/Horace.md",
     "Sessions/Session 54.md",
+    "PCs/Y'lana.md",
+    "Objects/The Face of Gamalt.md",
     "Objects/The Ecumenical Advance.md",
     "Locations/The Oaken Throne.md",
     "Kraalen Mountains.md",
@@ -237,20 +261,6 @@
     "NPCs/Steward Agram.md",
     "NPCs/Sebael Kess.md",
     "NPCs/Sanguious Thalkatada.md",
-    "PCs/Sebael Targus.md",
-    "NPCs/Doriel Tyrana.md",
-    "NPCs/Thomas Whitefeather.md",
-    "NPCs/Eram.md",
-    "NPCs/Lady Alexa.md",
-    "NPCs/Sir Idimus.md",
-    "PCs/Y'lana.md",
-    "Sessions/Session 52.md",
-    "Organizations/The Knight Guard.md",
-    "Locations/Demiliac's Fortress.md",
-    "Locations/Targus.md",
-    "Locations/Khrun Mountains.md",
-    "Sessions/Session 51.md",
-    "Untitled",
     "Events",
     "Organizations",
     "Sessions",

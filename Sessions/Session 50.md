@@ -1,5 +1,5 @@
 # The Assassination of [[Mister Meers]]
-The [[Angels]] informed [[Maximus]] that the [[Golden Skull]] is guarded by a [[sea serpent]], so they decided to subvert the mutiny.
+The [[Angels]] informed [[Maximus]] that the [[The Face of Gamalt]] is guarded by a [[sea serpent]], so they decided to subvert the mutiny.
 
 Maximus cuts the shadows from the masts to freak out the sailors I guess? They definitely freak out, and they think the skull is somehow doing this. Maximus makes 11 silver giving fake blessings to these idiots.
 
