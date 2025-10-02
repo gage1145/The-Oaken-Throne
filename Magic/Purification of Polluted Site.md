@@ -1,0 +1,1 @@
+A magical ability to banish evil spirits from a polluted site.

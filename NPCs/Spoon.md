@@ -1,1 +1,1 @@
-Party thought he was a [[Lamia]],  but a doctor said he had a blood infection.
+Party thought he was a [[Lamia]],  but a doctor said he had a blood infection. He lives in [[Blackford]].

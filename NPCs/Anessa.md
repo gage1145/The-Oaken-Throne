@@ -1,0 +1,1 @@
+The woman that [[Spoon]] was obsessed with. She lives in [[Blackford]].

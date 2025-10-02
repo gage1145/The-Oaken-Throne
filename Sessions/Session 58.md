@@ -9,5 +9,20 @@ There was an elf at the edge. Sebael spoke with the elf in elvish, and explained
 We finally made it to the twisted tree that served as the entrance to the lechid lair. Sebael goes in immediately. The elf offers an opportunity to leave the forest instead, but no one accepts the offer.
 
 Jem asks if he can have knowledge of the [[Black Book]]. The cost is his tongue. Jem attempts to cut out his tongue. [[Sebael Targus]] helped him hold out his tongue. What a pal. He cleanly cuts out his fucking tongue and passed out.
+
+Sebael casted [[Purification of Polluted Site]] toward the lechid. He somehow succeeded with 2 advantage.
+
+[[Y'lana]] spoke telepathically with the lechid and the rest of the group heard:
+
+**"Four of your own fingers."** and
+**"Maximus' legs"**
+
+When Sebael finished, the entire glade goes silent, and suddenly, animals could be heard again.
+
+
 # Elias in [[Axeholm]]
+Elias met with [[Spoon]] in Axeholm to try to convince him to go on an adventure. Spoon was pretty hesitant but ultimately agreed to come along. 
+
+Spoon finally ended up with [[Anessa]], and she actually seems more into him that he to her. Elias is conflicted with killing Anessa now. Apparently, Elias is obsessed with killing people's connections to this world. 
+
 
