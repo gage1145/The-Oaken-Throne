@@ -19,10 +19,10 @@ Sebael casted [[Purification of Polluted Site]] toward the lechid. He somehow su
 
 When Sebael finished, the entire glade goes silent, and suddenly, animals could be heard again.
 
-
+A handful of elves almost immediately enter the glade. The one from before speaks up. They are very appreciative. I ask them to bring me to their leadership. My goal is to convince them to formally join the fight against [[Thomas Whitefeather]].
 # Elias in [[Axeholm]]
 Elias met with [[Spoon]] in Axeholm to try to convince him to go on an adventure. Spoon was pretty hesitant but ultimately agreed to come along. 
 
-Spoon finally ended up with [[Anessa]], and she actually seems more into him that he to her. Elias is conflicted with killing Anessa now. Apparently, Elias is obsessed with killing people's connections to this world. 
+Spoon finally ended up with [[Anessa]], and she actually seems more into him that he to her. Elias is conflicted with killing Anessa now. Apparently, Elias is obsessed with killing people's attachments to this world. 
 
 
