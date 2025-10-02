@@ -36,7 +36,8 @@
               "title": "Sebael Targus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "186d07e48348839c",
@@ -221,10 +222,10 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "8b9b7237da2cc096",
+  "active": "0c544bdb156fba15",
   "lastOpenFiles": [
-    "PCs/Sebael Targus.md",
     "Sessions/Session 58.md",
+    "PCs/Sebael Targus.md",
     "Thism Elves.md",
     "Sessions/Session 56.md",
     "Objects/The Face of Gamalt.md",
