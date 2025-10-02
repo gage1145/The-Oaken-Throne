@@ -206,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,7 +221,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "9b296ec2965d9c19",
+  "active": "ee9a60a8a05dd526",
   "lastOpenFiles": [
     "Animals/Bones.md",
     "Sessions/Session 58.md",
