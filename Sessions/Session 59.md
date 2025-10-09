@@ -11,8 +11,9 @@ The head elf handed me a handful of jerky. A peace offering?? He fucked off to f
 
 Soon some elves arrive. A tall one with a strong jaw approaches. He picked out Jovis and said, **"I didn't expect to see you here, tall one."**  
 
-[[Belian]]
+His name is [[Belian]], an elf that previously fought Jovis!
 
+I began talking to him about [[The Testament of Airesse]], and all the elves immediately drew their weapons. He tried to intimidate us, but was incredibly unsuccessful. He had a breakdown and pissed his pants.
 
 
 

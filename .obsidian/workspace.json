@@ -28,16 +28,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions/Session 59.md",
+                "file": "PCs/Sebael Targus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 59"
+              "title": "Sebael Targus"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "186d07e48348839c",
@@ -221,11 +220,12 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "51ae93c01fbc530a",
+  "active": "61232debe6ba09cf",
   "lastOpenFiles": [
+    "PCs/Sebael Targus.md",
+    "Sessions/Session 59.md",
     "Sessions/Session 54.md",
     "Sessions/Session 56.md",
-    "Sessions/Session 59.md",
     "Axeholm.md",
     "The Man in Chains.md",
     "Sessions/Session 50.md",
@@ -238,7 +238,6 @@
     "Animals/Avomorat.md",
     "NPCs/Anessa.md",
     "NPCs/Spoon.md",
-    "PCs/Sebael Targus.md",
     "Religion/Nangifer.md",
     "Religion/Noxo.md",
     "Organizations/Thism Elves.md",
