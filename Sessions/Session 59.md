@@ -7,7 +7,13 @@ They ask if we need help setting up camp. We say no. Sebael climbs a tree to div
 
 We came to a stop and informs us that we have arrived. There was nothing to be found.
 
-The head elf handed me a handful of jerky. A peace offering??
+The head elf handed me a handful of jerky. A peace offering?? He fucked off to find a representative.
+
+Soon some elves arrive. A tall one with a strong jaw approaches. He picked out Jovis and said, **"I didn't expect to see you here, tall one."**  
+
+[[Belian]]
+
+
 # In Axeholm
 [[Maximus]], [[Sir Grim]], and [[Jem]] decide to go back to the road to tend to the horses and to wait for [[Elias]] in [[Axeholm]]. Sebael, [[Y'lana]], and [[Jovis]] go with the elves. They find Elias on the road, and continue to Axeholm.
 
