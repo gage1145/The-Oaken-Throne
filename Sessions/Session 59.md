@@ -14,6 +14,8 @@ Soon some elves arrive. A tall one with a strong jaw approaches. He picked out J
 [[Belian]]
 
 
+
+
 # In Axeholm
 [[Maximus]], [[Sir Grim]], and [[Jem]] decide to go back to the road to tend to the horses and to wait for [[Elias]] in [[Axeholm]]. Sebael, [[Y'lana]], and [[Jovis]] go with the elves. They find Elias on the road, and continue to Axeholm.
 
