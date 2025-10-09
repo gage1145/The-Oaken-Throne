@@ -1,0 +1,1 @@
+A town in [[Damaria]]. [[Jovis]], [[Y'lana]], and [[Sebael Targus]] found themselves there after elves pushed them out of the [[Wolverine Forest]].

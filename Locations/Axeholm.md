@@ -1,0 +1,1 @@
+A village in [[Damaria]] near the [[Wolverine Forest]]. [[Jem]], [[Maximus]], and [[Elias]] found themselves there after visiting the [[Wolverine Wood Lechid]].
