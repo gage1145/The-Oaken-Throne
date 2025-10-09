@@ -6,7 +6,6 @@
       {
         "id": "1a155c9d2bd8c0a4",
         "type": "tabs",
-        "dimension": 35.84010840108401,
         "children": [
           {
             "id": "61232debe6ba09cf",
@@ -35,14 +34,7 @@
               "icon": "lucide-file",
               "title": "Sebael Targus"
             }
-          }
-        ]
-      },
-      {
-        "id": "186d07e48348839c",
-        "type": "tabs",
-        "dimension": 64.15989159891599,
-        "children": [
+          },
           {
             "id": "9b296ec2965d9c19",
             "type": "leaf",
@@ -222,20 +214,22 @@
   },
   "active": "61232debe6ba09cf",
   "lastOpenFiles": [
+    "Sessions/Session 50.md",
+    "Sessions/Session 47.md",
+    "Sessions/Session 45.md",
+    "Sessions/Session 59.md",
+    "PCs/Sebael Targus.md",
     "NPCs/The Sword in The Soil.md",
     "NPCs/Thol.md",
-    "Sessions/Session 59.md",
     "Locations/Tibara.md",
     "Locations/Axeholm.md",
     "NPCs/Wolverine Wood Lechid.md",
     "Locations/Wolverine Forest.md",
     "Brasiva.md",
     "Sessions/Session 58.md",
-    "PCs/Sebael Targus.md",
     "Sessions/Session 54.md",
     "Sessions/Session 56.md",
     "The Man in Chains.md",
-    "Sessions/Session 50.md",
     "Locations/shuliae H'noro.md",
     "Animals/Jetta.md",
     "Animals/Lil' Cal.md",
@@ -246,8 +240,6 @@
     "NPCs/Spoon.md",
     "Religion/Nangifer.md",
     "Religion/Noxo.md",
-    "Organizations/Thism Elves.md",
-    "Objects/The Face of Gamalt.md",
     "Animals",
     "Events",
     "Organizations",

@@ -3,8 +3,8 @@
   "search": "-path: Sessions",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
@@ -64,9 +64,9 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.7,
+  "textFadeMultiplier": -2.4,
   "nodeSizeMultiplier": 1.2484375,
   "lineSizeMultiplier": 1.35052083333333,
   "collapse-forces": true,
@@ -74,6 +74,6 @@
   "repelStrength": 12.6041666666667,
   "linkStrength": 0.953125,
   "linkDistance": 121,
-  "scale": 0.23627779410863753,
+  "scale": 0.2752884635621869,
   "close": true
 }
