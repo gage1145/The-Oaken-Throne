@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "ee90998115187194",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "51ae93c01fbc530a",
             "type": "leaf",
             "state": {
@@ -45,7 +57,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,7 +225,7 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "61232debe6ba09cf",
+  "active": "ee90998115187194",
   "lastOpenFiles": [
     "Sessions/Session 50.md",
     "Sessions/Session 47.md",
