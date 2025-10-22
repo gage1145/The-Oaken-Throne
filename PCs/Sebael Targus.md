@@ -21,7 +21,7 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 - Harmonize: **4d6**
 - Sixth Sense: **3d6**
 # Spells
-## Options for Known Mysteries
+## Known Mysteries
 - **Mystery of the Dark Curses - Dibuk, Modern, Nangifer, and Orphagus**
 	- The evil eye - 
 	- The Weathered Soil - Blights crops
@@ -51,7 +51,7 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 	- Protective Sigil of the Gods - Defense against magic
 		- Instant, lasts for concentration amount of time, casted to a target
 	- Exorcism of the Unholy Spirit
-## Options for Spellbook (if not using above list)
+## Spellbook
 - Mystery of the Subjugation of the Undead
 - Mystery of the Macabre Arts
 - Mystery of the Lamia’s Rapture

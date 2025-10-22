@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61232debe6ba09cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sessions/Session 59.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 59"
-            }
-          },
-          {
             "id": "145041a7cadd668b",
             "type": "leaf",
             "state": {
@@ -33,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Session 61"
-            }
-          },
-          {
-            "id": "ee90998115187194",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
             }
           },
           {
@@ -61,8 +35,7 @@
               "title": "Sebael Targus"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "32aac2a845ba0754",
@@ -245,11 +218,12 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "ee90998115187194",
+  "active": "145041a7cadd668b",
   "lastOpenFiles": [
-    "Sessions/Session 59.md",
-    "Sessions/Session 61.md",
     "PCs/Sebael Targus.md",
+    "Sessions/Session 61.md",
+    "Chasm Rankgor.md",
+    "Sessions/Session 59.md",
     "Sessions/Session 50.md",
     "Sessions/Session 47.md",
     "Sessions/Session 45.md",
@@ -272,7 +246,6 @@
     "Animals/Avomorat.md",
     "NPCs/Anessa.md",
     "NPCs/Spoon.md",
-    "Religion/Nangifer.md",
     "Animals",
     "Events",
     "Organizations",
