@@ -21,7 +21,15 @@ We will run point on this. It is our ultimate quest.
 Love,
 The Crew
 
-P.S. We hate elves too.
+P.S. We hate elves too. Also, can we get a doctor for our friend with split personalities?
+# Meeting the King
+Rurn and a lot of guards take us around the underground palace toward the audience chamber. The dwarven king is seated at the far end. The scribes announce the letter we had delivered. After they finish, the dwarves hum thoughtfully about what was said. The dwarf king holds up his hand, and speaks to an aid at his arm. The aid speaks to the herald. The herald speaks up and asks what we want.
+
+We said safe passage to Sinari wood, information on where the books are in the letter, and permission to destroy the Oaken Throne. The herald asks if we trust someone to carry our message. Rurn enters the side chamber after a pause and says, 
+
+"I don't know that we can give you these books you request. But, I can offer you passage to the Sinari wood, understanding the sensitivity of this situation, we will have to disavow you."
+
+We will become enemies of the state (in name only).
 
 
 

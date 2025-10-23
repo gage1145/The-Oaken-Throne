@@ -25,7 +25,7 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 - Mystery of the Dark Curses - Dibuk, Modern, Nangifer, and Orphagus
 	- The evil eye - 
 	- The Weathered Soil - Blights crops
-	- Gaze of the Night Lord - Causes fear (The night lord’s gaze) 
+	- Gaze of the Night Lord - Causes fear
 - Mystery of the Dead Names - All, but mainly Dibuk
 	- Curse of the Devouring Spirit - Curses objects
 	- Spirit Seer - Sense spirits
