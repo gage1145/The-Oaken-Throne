@@ -1,0 +1,1 @@
+A [[dwarf]] in [[Chasm Rankgor]] that led us around the underground castle.

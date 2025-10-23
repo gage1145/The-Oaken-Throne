@@ -1,1 +1,1 @@
-A very ancient text written by [[Ostramus]]. Has to do with the progress of religion.
+A very ancient text written by [[Ostramus]]. Has to do with the progress of [[Daaktrianism]].

@@ -1,1 +1,1 @@
-A magical ability to banish evil spirits from a polluted site.
+A magical ability used by [[Sebael Targus]] to banish evil spirits from a polluted site.
