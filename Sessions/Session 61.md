@@ -31,6 +31,8 @@ We said safe passage to Sinari wood, information on where the books are in the l
 
 We will become enemies of the state (in name only).
 
+DON'T FORGET THAT SEBAEL SHOULD GET A MYSTERY FROM HIS SPELLBOOK!
+
 
 
 
