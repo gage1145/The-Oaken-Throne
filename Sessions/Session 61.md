@@ -30,10 +30,6 @@ We said safe passage to Sinari wood, information on where the books are in the l
 "I don't know that we can give you these books you request. But, I can offer you passage to the Sinari wood, understanding the sensitivity of this situation, we will have to disavow you."
 
 We will become enemies of the state (in name only).
-
-DON'T FORGET THAT SEBAEL SHOULD GET A MYSTERY FROM HIS SPELLBOOK!
-
-
-
+### DON'T FORGET THAT SEBAEL SHOULD GET A MYSTERY FROM HIS SPELLBOOK!
 
 

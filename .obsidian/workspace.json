@@ -6,7 +6,7 @@
       {
         "id": "1a155c9d2bd8c0a4",
         "type": "tabs",
-        "dimension": 35.08353221957041,
+        "dimension": 35.381861575178995,
         "children": [
           {
             "id": "145041a7cadd668b",
@@ -52,12 +52,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "32aac2a845ba0754",
         "type": "tabs",
-        "dimension": 64.9164677804296,
+        "dimension": 64.618138424821,
         "children": [
           {
             "id": "6c18cb9b859cff33",
@@ -237,13 +237,13 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "6c18cb9b859cff33",
+  "active": "51ae93c01fbc530a",
   "lastOpenFiles": [
-    "PCs/Hipatia.md",
     "Sessions/Session 62.md",
-    "Untitled.md",
-    "Sessions/Session 61.md",
     "PCs/Sebael Targus.md",
+    "Sessions/Session 61.md",
+    "PCs/Hipatia.md",
+    "Untitled.md",
     "NPCs/Sebael Kess.md",
     "Organizations/Kolonan Empire.md",
     "Sessions/Session 50.md",

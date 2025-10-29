@@ -12,6 +12,8 @@ In [[Session 50]], he discovered that he will be a crucial component of the comi
 
 Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], and [[Jovis]].
 
+[[Y'lana]] gave him a sick tattoo of [[Dybbuk]] while in the Dwarven fortress.
+
 # Combat
 - Spear: 5d6+2
 # Mysticism
@@ -55,3 +57,6 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 - Mystery of the Lamia’s Rapture
 - Mystery of the Final Rest
 - Mystery of the Destruction of the Body
+	- Curse someone to get chronically ill
+	- Do a shit ton of damage
+	- Thousand Bleeding Wounds - make them bleed
