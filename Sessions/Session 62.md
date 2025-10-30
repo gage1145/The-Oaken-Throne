@@ -16,3 +16,4 @@
 - Plan N - Become Lady Whistledown
 # [[Jem]] writes a letter to [[The Bright Childs]]
 Jem starts writing a letter to inform them about the location of the body of [[The Sword in The Soil]]. Y'lana paid 50 silver for a courier to deliver it, and this hopefully will nullify our debt to the Primod.
+# We go to [[Brasiva]]
