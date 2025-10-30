@@ -1,0 +1,1 @@
+A priest with a church in the slums of [[Tibara]]. Interacted with [[Jem]].
