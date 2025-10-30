@@ -6,7 +6,7 @@
 - Plan E - Distribute drugs amongst the Sinari elves
 - Plan F - Ask the angels what we should do
 - Plan G - [[Sebael Targus]] learns necromancy
-- Plan H - Shadow walk into the Sinari Wood
+- Plan H - Shadow walk through the Sinari Wood to find [[Elias]]' former boss [[Lord Mask]].
 - Plan I - Side with the elves
 	- They haven't done anything with it for millenia, so maybe we should warn them of the impending struggle coming their way
 - Plan J - False flag with [[Thalmar]] and [[Lot van Culnar]]
