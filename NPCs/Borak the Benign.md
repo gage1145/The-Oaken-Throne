@@ -1,0 +1,1 @@
+A necromancer in [[Brasiva]] that trained [[Sebael Targus]] in the ways of the undead.

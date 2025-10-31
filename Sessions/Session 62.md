@@ -17,3 +17,6 @@
 # [[Jem]] writes a letter to [[The Bright Childs]]
 Jem starts writing a letter to inform them about the location of the body of [[The Sword in The Soil]]. Y'lana paid 50 silver for a courier to deliver it, and this hopefully will nullify our debt to the Primod.
 # We go to [[Brasiva]]
+Sebael finds a necromancer named [[Borak the Benign]]. 
+
+The others go to the library to find evidence of correspondance with the Sinari elves. It looks like the elves have been unfairly painted in poor light.

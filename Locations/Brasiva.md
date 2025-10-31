@@ -1,1 +1,1 @@
-A town in [[Damaria]]. [[Jovis]], [[Y'lana]], and [[Sebael Targus]] found themselves there after elves pushed them out of the [[Wolverine Forest]].
+A town in [[Damaria]]. [[Jovis]], [[Y'lana]], and [[Sebael Targus]] found themselves there after elves pushed them out of the [[Wolverine Forest]]. It also borders the [[Sinari Wood]] to the east.
