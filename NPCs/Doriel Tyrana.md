@@ -1,1 +1,1 @@
-An assassin that owed a favor to [[Sebael Targus]].
+An assassin that owed a favor to [[Sebael Targus]]. He was killed when he attempted to assassinate [[Thomas Whitefeather]].

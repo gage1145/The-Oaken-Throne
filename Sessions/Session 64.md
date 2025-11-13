@@ -20,3 +20,13 @@ Maximus said that we are hoping to prevent the [[Great Calamity]], and that our 
 The elves granted us access to 50ft inside the forest to protect us from the army gathering in [[Brasiva]].
 # Scouting the army
 Maximus and [[Elias]] shadow walk toward Brasiva to scout out the gathering army of [[Lot van Culnar]].
+
+Maximus considered using his nuke magic to annihilate the gathering army, but he pussed out and ran back to the elves to see if they have a magical object that could help him do that. 
+# Entering the Elvish City
+The elves return and start leading us to the elvish crown prince. We eventually reach a building covered in lush forest greenery. Maximus and Jovis realized that this building was constructed specifically for this purpose.
+
+At the end of the throne room, there is a dais with a throne, where the prince was sitting. The throne is cyprus (not oak...sad). He has a very tall silver crown atop his dome. 
+
+***"These are the motherfuckers from the border."***
+
+The prince was already aware of the easterners. Some of the issues are new to them.
