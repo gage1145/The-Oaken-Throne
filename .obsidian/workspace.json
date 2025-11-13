@@ -30,7 +30,17 @@
               "state": {
                 "file": "Session 64.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Session 64"
@@ -223,15 +233,15 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "6c18cb9b859cff33",
+  "active": "41f6c960706fad61",
   "lastOpenFiles": [
+    "PCs/Sebael Targus.md",
     "Session 64.md",
+    "Locations/Drunok.md",
     "Locations/Sinari Wood.md",
     "NPCs/Sirius Andorus Randarian.md",
-    "Locations/Drunok.md",
     "Locations/Chirurgy Guild.md",
     "NPCs/Zokar of Zim.md",
-    "PCs/Sebael Targus.md",
     "Sessions/Session 62.md",
     "Locations/Brasiva.md",
     "NPCs/Borak the Benign.md",
