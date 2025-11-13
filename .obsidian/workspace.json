@@ -37,8 +37,7 @@
               "title": "Session 64"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "32aac2a845ba0754",
@@ -224,11 +223,11 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "41f6c960706fad61",
+  "active": "51ae93c01fbc530a",
   "lastOpenFiles": [
+    "Sessions/Session 64.md",
     "NPCs/Doriel Tyrana.md",
     "PCs/Sebael Targus.md",
-    "Sessions/Session 64.md",
     "Magic/Mystery of Banishment.md",
     "Magic/Mystery of the Divine Rapture.md",
     "Magic/Mystery of the Destruction of the Body.md",

@@ -30,3 +30,5 @@ At the end of the throne room, there is a dais with a throne, where the prince w
 ***"These are the motherfuckers from the border."***
 
 The prince was already aware of the easterners. Some of the issues are new to them.
+
+The prince agrees to grant all of our wishes if we agree to bring the head of [[Lot van Culnar]] by morning.
