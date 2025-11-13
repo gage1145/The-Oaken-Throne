@@ -24,42 +24,42 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 - Sixth Sense: **3d6**
 # Spells
 ## Known Mysteries
-- [[Mystery of the Dark Curses]] - Dibuk, Modern, Nangifer, and Orphagus - Difficulty 10
+- [[The Dark Curses]] - Dibuk, Modern, Nangifer, and Orphagus - Difficulty 10
 	- The evil eye - 
 	- The Weathered Soil - Blights crops
 	- Gaze of the Night Lord - Causes fear
-- [[Mystery of the Dead Names]] - All, but mainly Dibuk
+- [[The Dead Names]] - All, but mainly Dibuk
 	- Curse of the Devouring Spirit - Curses objects
 	- Spirit Seer - Sense spirits
 	- Command Spirit
 	- Shackle Spirit - create ghost
-- [[Mystery of the Thousand Visages]] - All, but mainly Anordino, Modern, and Syrakia
+- [[The Thousand Visages]] - All, but mainly Anordino, Modern, and Syrakia
 	- The Countless Voices - change my voice
 	- The False Form - changes appearance
 	- The Mirror Mask - priest takes the visage of another person specifically
-- [[Mystery of the Divine Rapture]] - All, but especially Selena
+- [[Divine Rapture]] - All, but especially Selena
 	- The Wild Dance
 	- The Labyrinth of Dreams
 	- Dream Visions
-- [[Mystery of the Concealing Mist]] - All
+- [[Concealing Mist]] - All
 	- The Concealing Mist - Make a mist
 	- Gaze of Sheer Veils - Can see in mist
 	- Blur Vision
-- [[Mystery of Banishment]] - All
+- [[Banishment]] - All
 	- The Gods’ Rejection - Force mad god onto someone else (like if I make my god mad) 
 	- [[Purification of Polluted Site]] - Purify place
 	- Protective Sigil of the Gods - Defense against magic
 		- Instant, lasts for concentration amount of time, casted to a target
 	- Exorcism of the Unholy Spirit
 ## Spellbook
-- [[Mystery of the Subjugation of the Undead]] - Difficulty 10
+- [[Subjugation of the Undead]] - Difficulty 10
 	- Annihilate the undead
 	- Order undead
 	- Protection against the undead
-- [[Mystery of the Macabre Arts]]
-- [[Mystery of the Lamia’s Rapture]]
-- [[Mystery of the Final Rest]]
-- [[Mystery of the Destruction of the Body]]
+- [[The Macabre Arts]]
+- [[The Lamia’s Rapture]]
+- [[The Final Rest]]
+- [[Destruction of the Body]]
 	- Curse someone to get chronically ill
 	- Do a shit ton of damage
 	- Thousand Bleeding Wounds - make them bleed

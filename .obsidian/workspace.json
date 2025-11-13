@@ -37,7 +37,8 @@
               "title": "Session 64"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "32aac2a845ba0754",
@@ -223,25 +224,25 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "51ae93c01fbc530a",
+  "active": "41f6c960706fad61",
   "lastOpenFiles": [
+    "PCs/Sebael Targus.md",
+    "Magic/Destruction of the Body.md",
+    "Magic/The Final Rest.md",
+    "Magic/The Lamia’s Rapture.md",
+    "Magic/The Macabre Arts.md",
+    "Magic/Subjugation of the Undead.md",
+    "Magic/The Dark Curses.md",
+    "Magic/The Dead Names.md",
+    "Magic/The Thousand Visages.md",
+    "Magic/Banishment.md",
+    "Magic/Concealing Mist.md",
+    "Magic/Divine Rapture.md",
     "Sessions/Session 64.md",
     "NPCs/Doriel Tyrana.md",
-    "PCs/Sebael Targus.md",
-    "Magic/Mystery of Banishment.md",
-    "Magic/Mystery of the Divine Rapture.md",
-    "Magic/Mystery of the Destruction of the Body.md",
-    "Magic/Mystery of the Subjugation of the Undead.md",
-    "Magic/Mystery of the Concealing Mist.md",
-    "Magic/Mystery of the Dead Names.md",
-    "Magic/Mystery of the Macabre Arts.md",
-    "Magic/Mystery of the Final Rest.md",
-    "Magic/Mystery of the Thousand Visages.md",
-    "Magic/Mystery of the Lamia’s Rapture.md",
     "Objects/The Face of Gamalt.md",
     "NPCs/Gamalt.md",
     "Organizations/Sinari Elves.md",
-    "Magic/Mystery of the Dark Curses.md",
     "Animals/Sacrifice.md",
     "Locations/Drunok.md",
     "Locations/Sinari Wood.md",

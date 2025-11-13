@@ -1,9 +1,9 @@
 # On the edge of the [[Sinari Wood]]
-[[Sebael Targus]] cast [[Mystery of the Thousand Visages]] on [[Maximus]] to make him look like one of the [[Sinari Elves]]. The elves definitely saw this happen, and it will likely have no positive impact to us.
+[[Sebael Targus]] cast [[The Thousand Visages]] on [[Maximus]] to make him look like one of the [[Sinari Elves]]. The elves definitely saw this happen, and it will likely have no positive impact to us.
 
 [[Jovis]] wrote a letter in [[Felya Sanari]] and attached it to [[Sacrifice]] and sent the sheep into the wood. The note warns of powerful forces that are seeking "a significant cultural item" and that we are willing to help them protect it. These forces believe it to be a weapon, and wish to use it for their own gain.
 
-Sebael cast [[Mystery of the Dark Curses]] on Sacrifice to terrify him into the wood. Now we wait.
+Sebael cast [[The Dark Curses]] on Sacrifice to terrify him into the wood. Now we wait.
 
 Two days later, two elves appear.
 
