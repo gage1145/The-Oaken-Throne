@@ -1,0 +1,1 @@
+The elves that live within the [[Sinari Wood]]. It is believed that they are the guardians of [[The Oaken Throne]].

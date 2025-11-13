@@ -1,0 +1,1 @@
+A famous trickster that made a cursed skull. Somewhere in the [[Purple Sea]].

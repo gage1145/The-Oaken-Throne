@@ -6,7 +6,7 @@
       {
         "id": "1a155c9d2bd8c0a4",
         "type": "tabs",
-        "dimension": 35.381861575178995,
+        "dimension": 40.214797136038186,
         "children": [
           {
             "id": "51ae93c01fbc530a",
@@ -28,19 +28,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 64.md",
+                "file": "Sessions/Session 64.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Session 64"
@@ -52,7 +43,7 @@
       {
         "id": "32aac2a845ba0754",
         "type": "tabs",
-        "dimension": 64.618138424821,
+        "dimension": 59.785202863961814,
         "children": [
           {
             "id": "6c18cb9b859cff33",
@@ -235,8 +226,23 @@
   },
   "active": "41f6c960706fad61",
   "lastOpenFiles": [
+    "Magic/Mystery of Banishment.md",
+    "Magic/Mystery of the Divine Rapture.md",
+    "Magic/Mystery of the Destruction of the Body.md",
+    "Magic/Mystery of the Subjugation of the Undead.md",
+    "Magic/Mystery of the Concealing Mist.md",
+    "Magic/Mystery of the Dead Names.md",
+    "Magic/Mystery of the Macabre Arts.md",
+    "Magic/Mystery of the Final Rest.md",
+    "Magic/Mystery of the Thousand Visages.md",
+    "Magic/Mystery of the Lamia’s Rapture.md",
+    "Objects/The Face of Gamalt.md",
+    "NPCs/Gamalt.md",
+    "Organizations/Sinari Elves.md",
+    "Sessions/Session 64.md",
     "PCs/Sebael Targus.md",
-    "Session 64.md",
+    "Magic/Mystery of the Dark Curses.md",
+    "Animals/Sacrifice.md",
     "Locations/Drunok.md",
     "Locations/Sinari Wood.md",
     "NPCs/Sirius Andorus Randarian.md",
@@ -246,21 +252,6 @@
     "Locations/Brasiva.md",
     "NPCs/Borak the Benign.md",
     "NPCs/Lord Mask.md",
-    "NPCs/Garren Blackhill.md",
-    "NPCs/Franklin of Nines.md",
-    "NPCs/Brother Lacus.md",
-    "NPCs/Father Rogdor.md",
-    "NPCs/Sebael Kess.md",
-    "Sessions/Session 61.md",
-    "PCs/Hipatia.md",
-    "Organizations/Kolonan Empire.md",
-    "Sessions/Session 50.md",
-    "Sessions/Session 51.md",
-    "Sessions/Session 48.md",
-    "Sessions/Session 47.md",
-    "NPCs/Rurn.md",
-    "Objects/The Ecumenical Advance.md",
-    "NPCs/Wolverine Wood Lechid.md",
     "Animals",
     "Events",
     "Organizations",

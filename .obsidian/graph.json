@@ -3,9 +3,9 @@
   "search": "-path:Sessions  ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Locations  ",
@@ -18,7 +18,7 @@
       "query": "path:Magic  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 11731117
       }
     },
     {
@@ -74,6 +74,6 @@
   "repelStrength": 12.6041666666667,
   "linkStrength": 0.953125,
   "linkDistance": 121,
-  "scale": 0.2570126959965818,
+  "scale": 0.2036372570687642,
   "close": true
 }

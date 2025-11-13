@@ -24,7 +24,7 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 - Sixth Sense: **3d6**
 # Spells
 ## Known Mysteries
-- [[Mystery of the Dark Curses]] - Dibuk, Modern, Nangifer, and Orphagus
+- [[Mystery of the Dark Curses]] - Dibuk, Modern, Nangifer, and Orphagus - Difficulty 10
 	- The evil eye - 
 	- The Weathered Soil - Blights crops
 	- Gaze of the Night Lord - Causes fear
@@ -52,7 +52,7 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 		- Instant, lasts for concentration amount of time, casted to a target
 	- Exorcism of the Unholy Spirit
 ## Spellbook
-- [[Mystery of the Subjugation of the Undead]]
+- [[Mystery of the Subjugation of the Undead]] - Difficulty 10
 	- Annihilate the undead
 	- Order undead
 	- Protection against the undead
