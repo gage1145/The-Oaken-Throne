@@ -36,7 +36,8 @@
               "title": "Session 64"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "32aac2a845ba0754",
@@ -218,16 +219,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "51ae93c01fbc530a",
+  "active": "6c18cb9b859cff33",
   "lastOpenFiles": [
     "Session 64.md",
+    "Locations/Sinari Wood.md",
+    "NPCs/Sirius Andorus Randarian.md",
+    "Locations/Drunok.md",
+    "Locations/Chirurgy Guild.md",
+    "NPCs/Zokar of Zim.md",
+    "PCs/Sebael Targus.md",
     "Sessions/Session 62.md",
     "Locations/Brasiva.md",
-    "Locations/Sinari Wood.md",
-    "PCs/Sebael Targus.md",
     "NPCs/Borak the Benign.md",
     "NPCs/Lord Mask.md",
     "NPCs/Garren Blackhill.md",
@@ -245,10 +251,6 @@
     "NPCs/Rurn.md",
     "Objects/The Ecumenical Advance.md",
     "NPCs/Wolverine Wood Lechid.md",
-    "Objects/Black Book.md",
-    "Locations/Duval.md",
-    "Animals/Avomorat.md",
-    "NPCs/Sanguious Thalkatada.md",
     "Animals",
     "Events",
     "Organizations",
