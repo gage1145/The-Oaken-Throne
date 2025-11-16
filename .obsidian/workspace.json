@@ -36,9 +36,21 @@
               "icon": "lucide-file",
               "title": "Session 64"
             }
+          },
+          {
+            "id": "9dc5bf2a06417b03",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "32aac2a845ba0754",
@@ -224,7 +236,7 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "41f6c960706fad61",
+  "active": "9dc5bf2a06417b03",
   "lastOpenFiles": [
     "PCs/Sebael Targus.md",
     "Magic/Destruction of the Body.md",
