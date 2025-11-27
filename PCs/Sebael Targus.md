@@ -36,7 +36,7 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 - [[The Thousand Visages]] - All, but mainly Anordino, Modern, and Syrakia
 	- The Countless Voices - change my voice
 	- The False Form - changes appearance
-	- The Mirror Mask - priest takes the visage of another person specifically
+	- The Mirror Mask - priest takes the visage of another person specifically - 11
 - [[Divine Rapture]] - All, but especially Selena
 	- The Wild Dance
 	- The Labyrinth of Dreams
