@@ -41,7 +41,7 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 	- The Wild Dance
 	- The Labyrinth of Dreams
 	- Dream Visions
-- [[Concealing Mist]] - All
+- [[Concealing Mist]] - All; difficulty 9
 	- The Concealing Mist - Make a mist
 	- Gaze of Sheer Veils - Can see in mist
 	- Blur Vision
