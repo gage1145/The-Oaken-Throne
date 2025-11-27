@@ -34,7 +34,7 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 	- Command Spirit
 	- Shackle Spirit - create ghost
 - [[The Thousand Visages]] - All, but mainly Anordino, Modern, and Syrakia
-	- The Countless Voices - change my voice
+	- The Countless Voices - change my voice - 9
 	- The False Form - changes appearance
 	- The Mirror Mask - priest takes the visage of another person specifically - 11
 - [[Divine Rapture]] - All, but especially Selena
@@ -42,8 +42,8 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 	- The Labyrinth of Dreams
 	- Dream Visions
 - [[Concealing Mist]] - All; difficulty 9
-	- The Concealing Mist - Make a mist
-	- Gaze of Sheer Veils - Can see in mist
+	- The Concealing Mist - Make a mist - 9
+	- Gaze of Sheer Veils - Can see in mist - 10
 	- Blur Vision
 - [[Banishment]] - All
 	- The Gods’ Rejection - Force mad god onto someone else (like if I make my god mad) 
