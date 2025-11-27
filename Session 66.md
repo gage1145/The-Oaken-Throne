@@ -3,3 +3,5 @@ The two got lost in [[Lot van Culnar]]'s encampment. They immediately shadow wal
 
 # Inside the castle of Lot Van Culnar
 [[Maximus]] lights some motherfuckers on fire that were trying to hide in the room. Sebael tried casting a necromantic spell on them, but it backfired on him, and he is in horrible pain. [[Elias]] and [[Jem]] moved in for melee.
+
+# The Magic Door
