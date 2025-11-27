@@ -61,5 +61,5 @@ Joined the main group as a PC with [[Maximus]], [[Jem]], [[Y'lana]], [[Elias]], 
 - [[The Final Rest]]
 - [[Destruction of the Body]]
 	- Curse someone to get chronically ill
-	- Do a shit ton of damage
+	- Virgil's Life Drain: Do a shit ton of damage
 	- Thousand Bleeding Wounds - make them bleed

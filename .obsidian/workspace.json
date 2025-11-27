@@ -36,7 +36,8 @@
               "title": "Session 66"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "32aac2a845ba0754",
@@ -222,10 +223,10 @@
       "smart-random-note:Open Random Note from Search": false
     }
   },
-  "active": "51ae93c01fbc530a",
+  "active": "b2bcc73d834c98fb",
   "lastOpenFiles": [
-    "Session 66.md",
     "PCs/Sebael Targus.md",
+    "Session 66.md",
     "Magic/Concealing Mist.md",
     "Sessions/Session 64.md",
     "Magic/Destruction of the Body.md",
